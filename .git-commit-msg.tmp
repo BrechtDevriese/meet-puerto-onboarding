@@ -1,9 +1,0 @@
-Use real Meet Puerto logo, remove scaffold leftovers
-
-- Replace placeholder logo.svg with the real Meet Puerto logo
-  (saved as public/logo.png by the venue owner)
-- Switch home page reference from /logo.svg to /logo.png
-- Remove unused scaffold SVGs from public/ (file, globe, next,
-  vercel, window) — none are referenced anywhere in the code
-
-Co-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>
