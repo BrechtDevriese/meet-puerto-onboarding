@@ -12,7 +12,7 @@ export default async function EventruimtePage({
     <RoomInstructionsPage
       locale={locale}
       roomNamespace="Gebruik.Eventruimte"
-      itemKeys={['lights', 'av', 'climate', 'wifi', 'windows']}
+      itemKeys={['lights', 'climate', 'av', 'bar', 'wifi', 'windows']}
     />
   );
 }

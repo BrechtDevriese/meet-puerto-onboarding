@@ -2,7 +2,7 @@ import {getTranslations, setRequestLocale} from 'next-intl/server';
 import PageHeader from '@/app/components/PageHeader';
 import Checklist from '@/app/components/Checklist';
 
-const ITEM_KEYS = ['read', 'safety', 'noise', 'damage', 'contact'];
+const ITEM_KEYS = ['read', 'capacity', 'noise', 'smoking', 'pets', 'damage', 'contact'];
 
 export default async function OnboardenChecklistPage({
   params

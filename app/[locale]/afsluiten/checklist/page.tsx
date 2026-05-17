@@ -3,15 +3,21 @@ import PageHeader from '@/app/components/PageHeader';
 import Checklist from '@/app/components/Checklist';
 
 const ITEM_KEYS = [
+  'appliancesOff',
   'trash',
+  'empties',
+  'glass',
   'dishes',
-  'kitchen',
-  'tables',
-  'av',
-  'windows',
-  'deck',
+  'towels',
+  'leftovers',
+  'ac',
+  'projector',
+  'sound',
   'lights',
-  'door'
+  'windows',
+  'doors',
+  'key',
+  'loungeCovers'
 ];
 
 export default async function AfsluitenChecklistPage({

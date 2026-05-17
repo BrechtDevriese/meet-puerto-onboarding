@@ -12,7 +12,7 @@ export default async function DekPage({
     <RoomInstructionsPage
       locale={locale}
       roomNamespace="Gebruik.Dek"
-      itemKeys={['railing', 'lifebuoy', 'weather', 'smoking']}
+      itemKeys={['loungeChairs', 'noise', 'smoking']}
     />
   );
 }

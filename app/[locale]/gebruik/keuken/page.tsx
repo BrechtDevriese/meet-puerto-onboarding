@@ -12,7 +12,7 @@ export default async function KeukenPage({
     <RoomInstructionsPage
       locale={locale}
       roomNamespace="Gebruik.Keuken"
-      itemKeys={['induction', 'oven', 'dishwasher', 'water', 'waste']}
+      itemKeys={['tableware', 'cuttingBoards', 'fridge', 'drinksFridge', 'freezer', 'microwave', 'rationalOven', 'plateWarmer', 'griddle', 'dishwasher']}
     />
   );
 }

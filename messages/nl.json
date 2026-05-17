@@ -28,19 +28,19 @@
       "sections": {
         "location": {
           "title": "Locatie & bereikbaarheid",
-          "body": "Meet Puerto ligt aangemeerd in de haven van Oostende, ponton P3. Te voet 8 minuten van het station Oostende."
+          "body": "Meet Puerto ligt aangemeerd in de haven van Oostende, naast de Mercator en recht tegenover het stadhuis. Adres voor je GPS: Jan Piersplein 2, 8400 Oostende. Te voet 8 minuten van het station Oostende."
         },
         "parking": {
           "title": "Parking",
-          "body": "Betalend parkeren in de havenparking Visserskaai (5 min wandelen). Laden/lossen mag kort op de kade — niet blijven staan."
+          "body": "Verschillende parkings in de buurt — een overzicht met tarieven vind je op meetpuerto.be."
         },
         "access": {
           "title": "Aan boord komen",
-          "body": "Bereik het ponton via de loopbrug. De toegangscode krijg je 1 uur vooraf per mail. Trek platte schoenen of stevig schoeisel aan — de loopbrug kan glad zijn bij regen."
+          "body": "Je betreedt het ponton via een eerste poort op de kade met een vaste toegangscode (die ontvang je bij je boekingsbevestiging). De poort geeft uit op de loopbrug naar het dek. Op het dek vind je een digitale igloohome sleutelkast — de code daarvoor krijg je via sms, 1 uur voor de start van je huur."
         },
         "rules": {
           "title": "Belangrijkste regels",
-          "body": "Veiligheidsvest verplicht voor kinderen onder 12. Niet zwemmen of springen vanaf het ponton. Geen open vuur. Geluidsnorm tot 22u, daarna binnen feesten met de ramen dicht."
+          "body": "Maximum 40 personen aan boord. Geluid op het dek is toegelaten tot 22u — daarna feest je verder binnen. Roken mag enkel op het dek, aan de voorziene rookpaal. Huisdieren zijn niet toegestaan."
         }
       }
     },
@@ -50,10 +50,12 @@
       "intro": "Vink alles aan om aan te tonen dat je de info begrepen hebt.",
       "items": {
         "read": "Ik heb alle info onder 'Info vooraf' gelezen.",
-        "safety": "Ik begrijp de veiligheidsregels rond water, kinderen en het zwemverbod.",
-        "noise": "Ik weet dat we vanaf 22u binnen feesten met de ramen dicht.",
+        "capacity": "Ik respecteer het maximum van 40 personen aan boord.",
+        "noise": "Ik weet dat geluid op het dek toegelaten is tot 22u — daarna feesten we verder binnen.",
+        "smoking": "Ik weet dat roken enkel mag op het dek, aan de voorziene rookpaal.",
+        "pets": "Ik begrijp dat huisdieren niet toegestaan zijn aan boord.",
         "damage": "Ik begrijp dat eventuele schade aan boord aan mij wordt aangerekend.",
-        "contact": "Ik heb het noodnummer 0800-XX-XXX genoteerd voor problemen aan boord."
+        "contact": "Ik heb het noodnummer 0497 80 01 16 genoteerd voor problemen aan boord."
       },
       "completedMessage": "Alles aangevinkt — ga door naar de handtekening.",
       "next": "Door naar handtekening"
@@ -82,10 +84,9 @@
       "summary": "Buitenruimte op het ponton.",
       "intro": "Het dek is de buitenruimte rond Meet Puerto. Een mooie plek voor een aperitief, maar hou rekening met onderstaande.",
       "items": {
-        "railing": "Hou kinderen onder 12 in zicht. De reling beschermt, maar klimmen of springen is verboden.",
-        "lifebuoy": "Twee reddingsboeien hangen aan het dek, één aan elk uiteinde. Niet weghalen.",
-        "weather": "Bij windkracht 6 of meer: tafels en parasols binnenzetten — de havenmeester verwittigt vooraf.",
-        "smoking": "Roken mag op het dek, gebruik de asbakken. Geen peuken in het water."
+        "loungeChairs": "Loungezetels: leg de beschermhoezen in de voorziene opbergboxen op het dek wanneer je de zetels gebruikt. Bij slecht weer of bij vertrek schuif je de hoezen terug over de zetels, sluit ze met de koorden en trek het onderste van de hoes onder de pootjes — zo waaien ze niet weg bij stevige wind.",
+        "noise": "Geluid op het dek is toegelaten tot 22u — daarna feest je verder binnen.",
+        "smoking": "Roken mag enkel aan de voorziene rookpaal op het dek. Geen peuken in het water."
       }
     },
     "Eventruimte": {
@@ -93,11 +94,12 @@
       "summary": "Binnenruimte met bar en AV.",
       "intro": "De hoofdruimte met bar, zit- en tafelopstelling. Hier vind je de bediening voor licht, geluid en klimaat.",
       "items": {
-        "lights": "Lichten bedien je via het paneel naast de bar. Drie scenes: 'Diner', 'Receptie', 'Feest'.",
-        "av": "Beamer, scherm en speakers zet je aan met de afstandsbediening in de la onder het paneel. HDMI-kabel ligt klaar.",
-        "climate": "Verwarming en airco regel je via het tablet aan de muur. Tussen 19 en 24°C vrij in te stellen.",
-        "wifi": "Wifi: netwerk 'MeetPuerto-Guest', wachtwoord staat op het bord achter de bar.",
-        "windows": "De grote ramen schuif je open via de hendels — niet verder dan tot de stop. Bij regen sluiten."
+        "lights": "De lichtschakelaars vind je links na het binnenkomen in de keuken.",
+        "climate": "De bedieningspanelen voor de airco's hangen op dezelfde plek als de lichtschakelaars (links na het binnenkomen in de keuken).",
+        "av": "Beamer aan: druk twee keer op de aan-knop van de afstandsbediening (ligt naast de stereoinstallatie op de bar). Het scherm zakt automatisch naar beneden via het zwarte bakje naast de geluidsinstallatie.",
+        "bar": "In de bar vind je verschillende compartimenten met frisdrank, water, wijn, cava, bier, … Je hoeft niets te noteren — wij tellen het leeggoed bij de opkuis. Reservestock zit in de koelkasten in de keuken.",
+        "wifi": "Wifi: netwerk MeetPuerto, wachtwoord MeetPuerto25!",
+        "windows": "Slechts twee ramen kunnen gekanteld worden. De andere ramen zijn omwille van veiligheid afgesloten en mogen niet geopend worden."
       }
     },
     "Keuken": {
@@ -105,11 +107,16 @@
       "summary": "Compacte cateringkeuken.",
       "intro": "Volledig uitgeruste cateringkeuken met inductie, oven en vaatwasser. Compact aan boord, dus efficiënt georganiseerd.",
       "items": {
-        "induction": "Inductievuur: aanzetten via touchpaneel. Pannen moeten een magnetische bodem hebben.",
-        "oven": "De oven heeft 'Hetelucht', 'Boven/onder' en 'Stoom'. Voorverwarmen duurt ongeveer 8 minuten.",
-        "dishwasher": "Vaatwasser: enkel met de aanwezige Eco-tabletten. Programma 'Eco 50°C' duurt 1u30.",
-        "water": "Drinkwater komt uit de tank en is gewoon drinkbaar. De tank wordt automatisch bijgevuld.",
-        "waste": "Sorteer afval in de drie bakken: PMD, papier, restafval. Glas in de container op de kade."
+        "tableware": "Borden, bestek en glazen vind je in de aangeduide kasten. Vrij te gebruiken — alles in de vaatwasser na gebruik.",
+        "cuttingBoards": "Snijplanken zijn gekleurd volgens HACCP: rood voor rauw vlees, blauw voor rauwe vis, geel voor rauw gevogelte, groen voor groenten en fruit, wit voor zuivel en brood. Gebruik altijd de juiste kleur om kruisbesmetting te vermijden.",
+        "fridge": "Aparte koelkast voor je eigen ingrediënten — vrij te gebruiken tijdens je verblijf.",
+        "drinksFridge": "Extra drankenkoelkast voor de reservestock. Hier vind je het bijgevulde aanbod aan frisdrank, water, wijn, cava en bier.",
+        "freezer": "Diepvries vrij te gebruiken voor eigen vlees, vis of bereidingen.",
+        "microwave": "Microgolf voor het opwarmen van bereidingen — gedetailleerde bediening volgt.",
+        "rationalOven": "Rational combi-oven voor professionele bereiding (hetelucht, stoom, combi). De oven leidt je via het touchscreen door de stappen.",
+        "plateWarmer": "Bordenverwarmer: dat zijn speciale laden in de keuken. Eén knop bedient alle laden samen — gebruik om borden warm te houden vóór het serveren.",
+        "griddle": "Bakplaat voor grillen — aanzetten via de bediening op het toestel.",
+        "dishwasher": "Industriële vaatwasser — enkel de aanwezige tabletten gebruiken. Programma starten via het frontpaneel."
       }
     }
   },
@@ -123,15 +130,21 @@
       "summary": "Vink af wat je hebt afgesloten.",
       "intro": "Vink af voor je vertrekt.",
       "items": {
-        "trash": "Afval gesorteerd in de drie bakken; glas naar de container op de kade.",
-        "dishes": "Vaat in de vaatwasser, Eco-programma gestart.",
-        "kitchen": "Werkbladen en kookplaat schoongeveegd; oven uit en deur op een kier.",
-        "tables": "Tafels en stoelen teruggezet zoals bij aankomst.",
-        "av": "Beamer, scherm, speakers en lichten uit via het paneel.",
-        "windows": "Alle ramen en deuren naar het dek gesloten.",
-        "deck": "Niets persoonlijks meer op het dek; asbakken geleegd in restafval.",
-        "lights": "Hoofdlichten uit via de hoofdschakelaar bij de uitgang.",
-        "door": "Toegangsdeur stevig dichttrekken tot je 'klik' hoort — het slot vergrendelt automatisch."
+        "appliancesOff": "Ik heb alle keukentoestellen (oven, microgolf, bordenverwarmer, vaatwasser, …) uitgezet.",
+        "trash": "Het afval is gesorteerd en in de voorziene vuilbakken gedeponeerd.",
+        "empties": "Het leeggoed is in de voorziene bakken gezet.",
+        "glass": "Glas is in de voorziene afvalcontainer achteraan in de keuken gezet.",
+        "dishes": "De vaat is afgewassen en terug op de voorziene plaats gezet.",
+        "towels": "De vuile was en handdoeken zijn in de voorziene wasmand gedeponeerd.",
+        "leftovers": "Eventuele eigen etensresten zijn meegenomen uit de frigo en diepvries.",
+        "ac": "De airco staat uit.",
+        "projector": "De beamer staat uit.",
+        "sound": "De geluidsinstallatie staat uit.",
+        "lights": "Alle lichten zijn uit.",
+        "windows": "Alle ramen zijn gesloten.",
+        "doors": "Alle deuren zijn gesloten.",
+        "key": "De sleutel is teruggelegd in de digitale igloohome sleutelbox.",
+        "loungeCovers": "De loungezetels zijn afgedekt met de beschermhoezen (vastgemaakt met de koorden, hoes onder de pootjes)."
       },
       "completedMessage": "Alles aangevinkt — ga door naar de handtekening.",
       "next": "Door naar handtekening"

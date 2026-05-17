@@ -28,19 +28,19 @@
       "sections": {
         "location": {
           "title": "Location & directions",
-          "body": "Meet Puerto is moored in the harbor of Oostende, pontoon P3. An 8-minute walk from Oostende station."
+          "body": "Meet Puerto is moored in the harbor of Oostende, next to the Mercator (the historic three-masted training ship) and directly opposite the city hall. GPS address: Jan Piersplein 2, 8400 Oostende. An 8-minute walk from Oostende station."
         },
         "parking": {
           "title": "Parking",
-          "body": "Paid parking at Visserskaai harbor car park (5 min walk). Brief loading/unloading on the quay is allowed — do not stay parked there."
+          "body": "Several car parks in the area — an overview with rates is available on meetpuerto.be."
         },
         "access": {
           "title": "Coming aboard",
-          "body": "Reach the pontoon via the gangway. You'll receive the access code by email 1 hour beforehand. Wear flat or sturdy shoes — the gangway can be slippery in rain."
+          "body": "You enter the venue through a first gate on the quay using a fixed access code (sent with your booking confirmation). The gate leads to the gangway up to the deck. On the deck you'll find a digital igloohome key safe — its code is sent to you by SMS, 1 hour before the start of your rental."
         },
         "rules": {
           "title": "Key rules",
-          "body": "Life jackets are required for children under 12. No swimming or jumping from the pontoon. No open fire. Noise rules apply until 10 PM, after which the party continues inside with the windows closed."
+          "body": "Maximum 40 people on board. Noise on the deck is allowed until 10 PM — after that, the party continues inside. Smoking is only allowed on the deck, at the designated smoking post. Pets are not permitted."
         }
       }
     },
@@ -50,10 +50,12 @@
       "intro": "Tick everything to confirm you've understood the info.",
       "items": {
         "read": "I have read all the info under 'Info beforehand'.",
-        "safety": "I understand the safety rules about water, children, and the swimming ban.",
-        "noise": "I know that from 10 PM we keep the party inside with the windows closed.",
+        "capacity": "I will respect the 40-person maximum on board.",
+        "noise": "I know that noise on the deck is allowed until 10 PM — after that, the party continues inside.",
+        "smoking": "I know that smoking is only allowed on the deck, at the designated smoking post.",
+        "pets": "I understand that pets are not permitted on board.",
         "damage": "I understand that any damage on board will be charged to me.",
-        "contact": "I have noted the emergency number 0800-XX-XXX for problems on board."
+        "contact": "I have noted the emergency number 0497 80 01 16 for problems on board."
       },
       "completedMessage": "All ticked — continue to the signature.",
       "next": "Continue to signature"
@@ -82,10 +84,9 @@
       "summary": "Outdoor area on the pontoon.",
       "intro": "The deck is the outdoor area around Meet Puerto. A great spot for drinks — please keep the following in mind.",
       "items": {
-        "railing": "Keep children under 12 in view. The railing is there for safety, but climbing or jumping is forbidden.",
-        "lifebuoy": "Two lifebuoys are mounted on the deck, one at each end. Do not remove them.",
-        "weather": "From wind force 6 onwards: bring tables and parasols inside — the harbor master notifies in advance.",
-        "smoking": "Smoking is allowed on the deck, use the ashtrays. No cigarette butts in the water."
+        "loungeChairs": "Lounge chairs: store the protective covers in the dedicated storage boxes on the deck while you're using the chairs. At the end of your rental or in bad weather, pull the covers back over the chairs, tie them with the provided cords, and tuck the bottom edge under the chair legs — this keeps them from blowing away in strong wind.",
+        "noise": "Noise on the deck is allowed until 10 PM — after that, the party continues inside.",
+        "smoking": "Smoking is only allowed at the designated smoking post on the deck. No cigarette butts in the water."
       }
     },
     "Eventruimte": {
@@ -93,11 +94,12 @@
       "summary": "Indoor space with bar and AV.",
       "intro": "The main room with bar, seating and table layout. Here you'll find controls for lights, sound and climate.",
       "items": {
-        "lights": "Control the lights via the panel next to the bar. Three scenes: 'Dinner', 'Reception', 'Party'.",
-        "av": "Turn the projector, screen and speakers on with the remote in the drawer under the panel. HDMI cable is ready.",
-        "climate": "Heating and air conditioning are controlled via the wall tablet. Free to set between 19 and 24°C.",
-        "wifi": "Wi-Fi: network 'MeetPuerto-Guest', the password is on the board behind the bar.",
-        "windows": "Slide the large windows open via the handles — not past the stop. Close them when it rains."
+        "lights": "The light switches are on your left as you enter the kitchen.",
+        "climate": "The air-conditioning control panels are mounted in the same spot as the light switches (on your left as you enter the kitchen).",
+        "av": "To turn the projector on, press the power button on the remote twice — it sits next to the stereo on the bar. The screen drops down automatically via the small black control next to the sound system.",
+        "bar": "The bar has several compartments with soft drinks, water, wine, cava, beer, … You don't need to keep track of what's consumed — we count the empties during cleanup. Backup stock is in the fridges in the kitchen.",
+        "wifi": "Wi-Fi: network MeetPuerto, password MeetPuerto25!",
+        "windows": "Only two windows can be tilted open. The other windows are sealed shut for safety reasons and must not be opened."
       }
     },
     "Keuken": {
@@ -105,11 +107,16 @@
       "summary": "Compact catering kitchen.",
       "intro": "Fully equipped catering kitchen with induction, oven and dishwasher. Compact aboard, but efficiently organised.",
       "items": {
-        "induction": "Induction hob: turn on via the touch panel. Pans must have a magnetic base.",
-        "oven": "The oven has 'Convection', 'Top/bottom' and 'Steam'. Pre-heating takes about 8 minutes.",
-        "dishwasher": "Dishwasher: use only the Eco tablets provided. The 'Eco 50°C' programme takes 1h30.",
-        "water": "Drinking water comes from the tank and is normally drinkable. The tank is refilled automatically.",
-        "waste": "Sort waste in the three bins: PMD, paper, residual. Glass in the container on the quay."
+        "tableware": "Plates, cutlery and glassware are in the marked cupboards. Use freely — everything goes in the dishwasher after use.",
+        "cuttingBoards": "Cutting boards follow the HACCP colour code: red for raw meat, blue for raw fish, yellow for raw poultry, green for vegetables and fruit, white for dairy and bread. Always use the right colour to prevent cross-contamination.",
+        "fridge": "Separate fridge for your own ingredients — use freely during your rental.",
+        "drinksFridge": "Extra drinks fridge for the backup stock. This is where the resupply of soft drinks, water, wine, cava and beer is kept.",
+        "freezer": "Freezer free to use for your own meat, fish or prepared dishes.",
+        "microwave": "Microwave for reheating prepared dishes — detailed operating instructions to follow.",
+        "rationalOven": "Rational combi oven for professional cooking (convection, steam, combi). The oven guides you through the steps on the touchscreen.",
+        "plateWarmer": "Plate warmer: built-in drawers in the kitchen. A single button controls all drawers together — use to keep plates hot before serving.",
+        "griddle": "Griddle for grilling — turn on via the controls on the unit.",
+        "dishwasher": "Industrial dishwasher — only use the tablets provided. Start the programme via the front panel."
       }
     }
   },
@@ -123,15 +130,21 @@
       "summary": "Tick what you've closed.",
       "intro": "Tick everything before you leave.",
       "items": {
-        "trash": "Waste sorted in the three bins; glass to the container on the quay.",
-        "dishes": "Dishes loaded, Eco programme started.",
-        "kitchen": "Worktops and hob wiped down; oven off and door slightly open.",
-        "tables": "Tables and chairs returned to their original positions.",
-        "av": "Projector, screen, speakers and lights off via the panel.",
-        "windows": "All windows and deck doors closed.",
-        "deck": "Nothing personal left on the deck; ashtrays emptied into residual waste.",
-        "lights": "Main lights off via the master switch at the exit.",
-        "door": "Front door pulled firmly closed until you hear 'click' — the lock engages automatically."
+        "appliancesOff": "I turned off all kitchen appliances (oven, microwave, plate warmer, dishwasher, …).",
+        "trash": "Waste is sorted and placed in the designated bins.",
+        "empties": "Empty bottles are placed in the designated empties crates.",
+        "glass": "Glass is placed in the designated waste container at the back of the kitchen.",
+        "dishes": "Dishes are washed and returned to their designated place.",
+        "towels": "Dirty laundry and towels are placed in the designated laundry basket.",
+        "leftovers": "Any personal food leftovers have been removed from the fridge and freezer.",
+        "ac": "The air conditioning is off.",
+        "projector": "The projector is off.",
+        "sound": "The sound system is off.",
+        "lights": "All lights are off.",
+        "windows": "All windows are closed.",
+        "doors": "All doors are closed.",
+        "key": "The key has been returned to the igloohome digital key safe.",
+        "loungeCovers": "The lounge chairs are covered with their protective covers (tied with the cords, cover tucked under the legs)."
       },
       "completedMessage": "All ticked — continue to the signature.",
       "next": "Continue to signature"

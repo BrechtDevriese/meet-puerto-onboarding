@@ -28,19 +28,19 @@
       "sections": {
         "location": {
           "title": "Lieu et accès",
-          "body": "Meet Puerto est amarré dans le port d'Ostende, ponton P3. À 8 minutes à pied de la gare d'Ostende."
+          "body": "Meet Puerto est amarré dans le port d'Ostende, à côté du Mercator (le voilier-école historique à trois mâts) et juste en face de l'hôtel de ville. Adresse GPS : Jan Piersplein 2, 8400 Ostende. À 8 minutes à pied de la gare d'Ostende."
         },
         "parking": {
           "title": "Parking",
-          "body": "Parking payant au parking Visserskaai (5 min à pied). Chargement/déchargement bref autorisé sur le quai — ne pas y rester stationné."
+          "body": "Plusieurs parkings dans les environs — un aperçu avec les tarifs est disponible sur meetpuerto.be."
         },
         "access": {
           "title": "Monter à bord",
-          "body": "Rejoignez le ponton par la passerelle. Le code d'accès vous est envoyé par e-mail 1 heure à l'avance. Portez des chaussures plates ou solides — la passerelle peut glisser par temps de pluie."
+          "body": "Vous accédez au ponton via un premier portail sur le quai à l'aide d'un code d'accès fixe (envoyé avec votre confirmation de réservation). Le portail mène à la passerelle vers le pont. Sur le pont, vous trouverez un coffret à clé numérique igloohome — son code vous est envoyé par SMS, 1 heure avant le début de votre location."
         },
         "rules": {
           "title": "Règles principales",
-          "body": "Gilet de sauvetage obligatoire pour les enfants de moins de 12 ans. Pas de baignade ni de saut depuis le ponton. Pas de feu ouvert. Niveau sonore jusqu'à 22h, ensuite la fête continue à l'intérieur avec les fenêtres fermées."
+          "body": "Maximum 40 personnes à bord. Le bruit sur le pont est autorisé jusqu'à 22h — ensuite, la fête continue à l'intérieur. Fumer est uniquement autorisé sur le pont, au pilier fumeurs prévu. Les animaux ne sont pas admis."
         }
       }
     },
@@ -50,10 +50,12 @@
       "intro": "Cochez tout pour confirmer que vous avez compris les infos.",
       "items": {
         "read": "J'ai lu toutes les infos sous 'Infos préalables'.",
-        "safety": "Je comprends les règles de sécurité concernant l'eau, les enfants et l'interdiction de baignade.",
-        "noise": "Je sais qu'à partir de 22h la fête continue à l'intérieur avec les fenêtres fermées.",
+        "capacity": "Je respecte le maximum de 40 personnes à bord.",
+        "noise": "Je sais que le bruit sur le pont est autorisé jusqu'à 22h — ensuite, la fête continue à l'intérieur.",
+        "smoking": "Je sais que fumer est uniquement autorisé sur le pont, au pilier fumeurs prévu.",
+        "pets": "Je comprends que les animaux ne sont pas admis à bord.",
         "damage": "Je comprends que les dégâts éventuels à bord me seront facturés.",
-        "contact": "J'ai noté le numéro d'urgence 0800-XX-XXX en cas de problème à bord."
+        "contact": "J'ai noté le numéro d'urgence 0497 80 01 16 en cas de problème à bord."
       },
       "completedMessage": "Tout est coché — passez à la signature.",
       "next": "Passer à la signature"
@@ -82,10 +84,9 @@
       "summary": "Espace extérieur sur le ponton.",
       "intro": "Le pont est l'espace extérieur autour de Meet Puerto. Un bel endroit pour l'apéritif — tenez compte des points suivants.",
       "items": {
-        "railing": "Gardez les enfants de moins de 12 ans à vue. La rambarde protège, mais grimper ou sauter est interdit.",
-        "lifebuoy": "Deux bouées de sauvetage sont fixées sur le pont, une à chaque extrémité. Ne pas les retirer.",
-        "weather": "À partir de vent de force 6 : rentrez tables et parasols — le maître de port prévient à l'avance.",
-        "smoking": "Fumer est autorisé sur le pont, utilisez les cendriers. Pas de mégots dans l'eau."
+        "loungeChairs": "Chaises longues : rangez les housses de protection dans les bacs de rangement prévus sur le pont pendant que vous utilisez les chaises. En cas de mauvais temps ou au départ, remettez les housses sur les chaises, attachez-les avec les cordons prévus et glissez le bord inférieur sous les pieds des chaises — ainsi elles ne s'envolent pas par vent fort.",
+        "noise": "Le bruit sur le pont est autorisé jusqu'à 22h — ensuite, la fête continue à l'intérieur.",
+        "smoking": "Fumer est uniquement autorisé au pilier fumeurs prévu sur le pont. Pas de mégots dans l'eau."
       }
     },
     "Eventruimte": {
@@ -93,11 +94,12 @@
       "summary": "Espace intérieur avec bar et AV.",
       "intro": "La pièce principale avec bar, assises et tables. Vous y trouverez les commandes pour la lumière, le son et le climat.",
       "items": {
-        "lights": "Les lumières se règlent via le panneau à côté du bar. Trois scènes : 'Dîner', 'Réception', 'Fête'.",
-        "av": "Allumez projecteur, écran et enceintes avec la télécommande dans le tiroir sous le panneau. Câble HDMI prêt.",
-        "climate": "Chauffage et climatisation se règlent via la tablette murale. Libre entre 19 et 24°C.",
-        "wifi": "Wi-Fi : réseau 'MeetPuerto-Guest', mot de passe sur le tableau derrière le bar.",
-        "windows": "Faites coulisser les grandes fenêtres avec les poignées — ne pas dépasser la butée. Fermer en cas de pluie."
+        "lights": "Les interrupteurs se trouvent à gauche en entrant dans la cuisine.",
+        "climate": "Les panneaux de commande des climatiseurs se trouvent au même endroit que les interrupteurs (à gauche en entrant dans la cuisine).",
+        "av": "Pour allumer le projecteur, appuyez deux fois sur le bouton marche de la télécommande — elle est posée à côté de la chaîne stéréo sur le bar. L'écran descend automatiquement via le petit boîtier noir à côté du système son.",
+        "bar": "Le bar comporte plusieurs compartiments avec sodas, eau, vin, cava, bière, … Vous n'avez rien à noter — nous comptons les bouteilles vides au nettoyage. Le stock de réserve se trouve dans les frigos de la cuisine.",
+        "wifi": "Wi-Fi : réseau MeetPuerto, mot de passe MeetPuerto25!",
+        "windows": "Seules deux fenêtres peuvent être basculées. Les autres fenêtres sont scellées pour des raisons de sécurité et ne doivent pas être ouvertes."
       }
     },
     "Keuken": {
@@ -105,11 +107,16 @@
       "summary": "Cuisine traiteur compacte.",
       "intro": "Cuisine traiteur entièrement équipée avec induction, four et lave-vaisselle. Compacte à bord, mais bien organisée.",
       "items": {
-        "induction": "Plaque à induction : allumer via le panneau tactile. Les casseroles doivent avoir un fond magnétique.",
-        "oven": "Le four a 'Chaleur tournante', 'Haut/bas' et 'Vapeur'. Le préchauffage prend environ 8 minutes.",
-        "dishwasher": "Lave-vaisselle : uniquement avec les tablettes Eco fournies. Le programme 'Eco 50°C' dure 1h30.",
-        "water": "L'eau potable provient du réservoir et est buvable. Le réservoir se remplit automatiquement.",
-        "waste": "Triez les déchets dans les trois bacs : PMC, papier, résiduel. Verre dans le conteneur sur le quai."
+        "tableware": "Assiettes, couverts et verres se trouvent dans les armoires indiquées. Libre d'utilisation — tout va au lave-vaisselle après usage.",
+        "cuttingBoards": "Les planches à découper suivent le code couleur HACCP : rouge pour la viande crue, bleu pour le poisson cru, jaune pour la volaille crue, vert pour les légumes et fruits, blanc pour les produits laitiers et le pain. Utilisez toujours la bonne couleur pour éviter la contamination croisée.",
+        "fridge": "Réfrigérateur séparé pour vos propres ingrédients — libre d'utilisation pendant votre location.",
+        "drinksFridge": "Frigo à boissons supplémentaire pour le stock de réserve. Vous y trouvez le réapprovisionnement en sodas, eau, vin, cava et bière.",
+        "freezer": "Congélateur libre d'utilisation pour votre propre viande, poisson ou préparations.",
+        "microwave": "Micro-ondes pour réchauffer les préparations — instructions détaillées à suivre.",
+        "rationalOven": "Four combi Rational pour la cuisine professionnelle (convection, vapeur, combi). Le four vous guide à travers les étapes sur l'écran tactile.",
+        "plateWarmer": "Chauffe-assiettes : tiroirs intégrés dans la cuisine. Un seul bouton commande tous les tiroirs ensemble — utilisez-le pour garder les assiettes chaudes avant le service.",
+        "griddle": "Plaque à griller — allumer via les commandes sur l'appareil.",
+        "dishwasher": "Lave-vaisselle industriel — utilisez uniquement les tablettes fournies. Démarrez le programme via le panneau frontal."
       }
     }
   },
@@ -123,15 +130,21 @@
       "summary": "Cochez ce que vous avez fermé.",
       "intro": "Cochez avant de partir.",
       "items": {
-        "trash": "Déchets triés dans les trois bacs ; verre dans le conteneur sur le quai.",
-        "dishes": "Vaisselle chargée, programme Eco lancé.",
-        "kitchen": "Plans de travail et plaque essuyés ; four éteint et porte entrouverte.",
-        "tables": "Tables et chaises remises comme à l'arrivée.",
-        "av": "Projecteur, écran, enceintes et lumières éteints via le panneau.",
-        "windows": "Toutes les fenêtres et portes vers le pont fermées.",
-        "deck": "Rien de personnel laissé sur le pont ; cendriers vidés dans les résiduels.",
-        "lights": "Lumières principales éteintes via l'interrupteur principal à la sortie.",
-        "door": "Porte d'entrée tirée fermement jusqu'à entendre 'clic' — le verrou s'enclenche automatiquement."
+        "appliancesOff": "J'ai éteint tous les appareils de cuisine (four, micro-ondes, chauffe-assiettes, lave-vaisselle, …).",
+        "trash": "Les déchets sont triés et déposés dans les poubelles prévues.",
+        "empties": "Les bouteilles vides sont dans les bacs prévus pour le verre consigné.",
+        "glass": "Le verre est dans le conteneur prévu à l'arrière de la cuisine.",
+        "dishes": "La vaisselle est lavée et remise à sa place.",
+        "towels": "Le linge sale et les serviettes sont déposés dans le panier à linge prévu.",
+        "leftovers": "Mes éventuels restes personnels ont été retirés du frigo et du congélateur.",
+        "ac": "La climatisation est éteinte.",
+        "projector": "Le projecteur est éteint.",
+        "sound": "Le système son est éteint.",
+        "lights": "Toutes les lumières sont éteintes.",
+        "windows": "Toutes les fenêtres sont fermées.",
+        "doors": "Toutes les portes sont fermées.",
+        "key": "La clé est remise dans le coffret numérique igloohome.",
+        "loungeCovers": "Les chaises longues sont recouvertes de leurs housses de protection (attachées avec les cordons, housse glissée sous les pieds)."
       },
       "completedMessage": "Tout est coché — passez à la signature.",
       "next": "Passer à la signature"
