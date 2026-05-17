@@ -20,20 +20,16 @@
     "intro": "All the practical info you need before coming to Meet Puerto.",
     "sections": {
       "location": {
-        "title": "Location & directions",
+        "title": "Getting there",
         "body": "Meet Puerto is moored in the harbor of Oostende, next to the Mercator (the historic three-masted training ship) and directly opposite the city hall. GPS address: Jan Piersplein 2, 8400 Oostende. An 8-minute walk from Oostende station."
       },
       "parking": {
-        "title": "Parking",
+        "title": "Parking options",
         "body": "Several car parks in the area — see the [Oostende parking overview](https://www.visitoostende.be/nl/parkeren)."
       },
       "access": {
         "title": "Coming aboard",
         "body": "You enter the venue through a first gate on the quay using a fixed access code (sent with your booking confirmation). The gate leads to the gangway up to the deck. On the deck you'll find a digital igloohome key safe — its code is sent to you by SMS, 1 hour before the start of your rental."
-      },
-      "rules": {
-        "title": "Key rules",
-        "body": "Maximum 40 people on board. Noise on the deck is allowed until 10 PM — after that, the party continues inside. Smoking is only allowed on the deck, at the designated smoking post. Pets are not permitted."
       }
     }
   },

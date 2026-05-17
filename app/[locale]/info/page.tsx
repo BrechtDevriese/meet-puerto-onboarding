@@ -1,8 +1,13 @@
 import {getTranslations, setRequestLocale} from 'next-intl/server';
+import {MapPin, Ship, SquareParking, type LucideIcon} from 'lucide-react';
 import PageHeader from '@/app/components/PageHeader';
 import {renderBody} from '@/lib/renderBody';
 
-const SECTION_KEYS = ['location', 'parking', 'access', 'rules'] as const;
+const SECTIONS: {key: string; icon: LucideIcon}[] = [
+  {key: 'location', icon: MapPin},
+  {key: 'parking', icon: SquareParking},
+  {key: 'access', icon: Ship}
+];
 
 export default async function InfoPage({
   params
@@ -26,12 +31,19 @@ export default async function InfoPage({
         />
 
         <div className="flex flex-col gap-4">
-          {SECTION_KEYS.map((key) => (
+          {SECTIONS.map(({key, icon: Icon}) => (
             <article
               key={key}
-              className="flex flex-col gap-2 rounded-2xl border border-zinc-200 bg-white p-5 dark:border-zinc-800 dark:bg-zinc-950"
+              className="flex flex-col gap-3 rounded-2xl border border-zinc-200 bg-white p-5 dark:border-zinc-800 dark:bg-zinc-950"
             >
-              <h2 className="text-lg font-semibold">
+              <h2 className="flex items-center gap-3 text-lg font-semibold">
+                <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-[#77A3A7]/15">
+                  <Icon
+                    className="h-5 w-5 text-[#77A3A7]"
+                    aria-hidden
+                    strokeWidth={2}
+                  />
+                </span>
                 {t(`sections.${key}.title`)}
               </h2>
               <p className="leading-relaxed text-zinc-700 dark:text-zinc-300">
