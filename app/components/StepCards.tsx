@@ -14,22 +14,20 @@ export default function StepCards({items}: {items: StepCardItem[]}) {
         <li key={item.href}>
           <Link
             href={item.href}
-            className="group flex items-center gap-4 rounded-2xl border border-zinc-200 bg-white p-5 transition-colors hover:border-zinc-400 dark:border-zinc-800 dark:bg-zinc-950 dark:hover:border-zinc-600"
+            className="group flex items-center gap-4 rounded-2xl bg-[#77A3A7] p-5 text-white shadow-sm transition-all hover:bg-[#658e91] hover:shadow"
           >
             {item.number !== undefined && (
-              <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-zinc-900 text-base font-semibold text-zinc-50 dark:bg-zinc-50 dark:text-zinc-900">
+              <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-white/20 text-base font-semibold text-white">
                 {item.number}
               </span>
             )}
             <span className="flex flex-1 flex-col">
               <span className="text-lg font-semibold">{item.title}</span>
-              <span className="text-sm text-zinc-600 dark:text-zinc-400">
-                {item.summary}
-              </span>
+              <span className="text-sm text-white/85">{item.summary}</span>
             </span>
             <span
               aria-hidden
-              className="text-zinc-400 transition-transform group-hover:translate-x-0.5"
+              className="text-white/80 transition-transform group-hover:translate-x-0.5"
             >
               →
             </span>

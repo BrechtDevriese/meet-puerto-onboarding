@@ -1,7 +1,7 @@
 {
   "Site": {
     "title": "Meet Puerto — Onboarding",
-    "description": "Alles wat je nodig hebt om Meet Puerto, ons drijvend ponton in de haven van Oostende, autonoom te gebruiken."
+    "description": "Alles wat je nodig hebt om Meet Puerto, ons drijvend ponton in de jachthaven van Oostende, autonoom te gebruiken."
   },
   "Common": {
     "backHome": "Naar startpagina",
@@ -11,45 +11,41 @@
     "label": "Taal"
   },
   "Home": {
-    "eyebrow": "Welkom bij",
     "title": "Meet Puerto",
-    "subtitle": "Onze drijvende eventlocatie in de haven van Oostende. Doorloop de drie blokken hieronder zodat je vlot kan aanleggen, je event laten doorgaan en alles netjes kan achterlaten.",
-    "blocksHeading": "Drie blokken"
+    "subtitle": "Onze drijvende eventlocatie in de jachthaven van Oostende. In deze app kan je alles terugvinden om jouw event succesvol te maken en alles netjes achter te laten."
+  },
+  "Info": {
+    "title": "Algemene info",
+    "summary": "Locatie, parking, toegang, regels.",
+    "intro": "Hier vind je alle praktische info voor je naar Meet Puerto komt.",
+    "sections": {
+      "location": {
+        "title": "Locatie & bereikbaarheid",
+        "body": "Meet Puerto ligt aangemeerd in de haven van Oostende, naast de Mercator en recht tegenover het stadhuis. Adres voor je GPS: Jan Piersplein 2, 8400 Oostende. Te voet 8 minuten van het station Oostende."
+      },
+      "parking": {
+        "title": "Parking",
+        "body": "Verschillende parkings in de buurt — bekijk het [parkeer-overzicht van Oostende](https://www.visitoostende.be/nl/parkeren)."
+      },
+      "access": {
+        "title": "Aan boord komen",
+        "body": "Je betreedt het ponton via een eerste poort op de kade met een vaste toegangscode (die ontvang je bij je boekingsbevestiging). De poort geeft uit op de loopbrug naar het dek. Op het dek vind je een digitale igloohome sleutelkast — de code daarvoor krijg je via sms, 1 uur voor de start van je huur."
+      },
+      "rules": {
+        "title": "Belangrijkste regels",
+        "body": "Maximum 40 personen aan boord. Geluid op het dek is toegelaten tot 22u — daarna feest je verder binnen. Roken mag enkel op het dek, aan de voorziene rookpaal. Huisdieren zijn niet toegestaan."
+      }
+    }
   },
   "Onboarden": {
     "title": "Onboarden",
-    "summary": "Info, checklist en handtekening vooraf.",
-    "intro": "Voor je aan boord komt: lees de info, vink de checklist af en zet je digitale handtekening.",
-    "stepsHeading": "Drie stappen",
-    "Info": {
-      "title": "Info vooraf",
-      "summary": "Locatie, parking, toegang, regels.",
-      "intro": "Hier vind je alle praktische info voor je naar Meet Puerto komt.",
-      "sections": {
-        "location": {
-          "title": "Locatie & bereikbaarheid",
-          "body": "Meet Puerto ligt aangemeerd in de haven van Oostende, naast de Mercator en recht tegenover het stadhuis. Adres voor je GPS: Jan Piersplein 2, 8400 Oostende. Te voet 8 minuten van het station Oostende."
-        },
-        "parking": {
-          "title": "Parking",
-          "body": "Verschillende parkings in de buurt — een overzicht met tarieven vind je op meetpuerto.be."
-        },
-        "access": {
-          "title": "Aan boord komen",
-          "body": "Je betreedt het ponton via een eerste poort op de kade met een vaste toegangscode (die ontvang je bij je boekingsbevestiging). De poort geeft uit op de loopbrug naar het dek. Op het dek vind je een digitale igloohome sleutelkast — de code daarvoor krijg je via sms, 1 uur voor de start van je huur."
-        },
-        "rules": {
-          "title": "Belangrijkste regels",
-          "body": "Maximum 40 personen aan boord. Geluid op het dek is toegelaten tot 22u — daarna feest je verder binnen. Roken mag enkel op het dek, aan de voorziene rookpaal. Huisdieren zijn niet toegestaan."
-        }
-      }
-    },
+    "summary": "Checklist en handtekening vooraf.",
+    "intro": "Vink alle punten aan om te bevestigen dat je de huisregels begrijpt, en zet daarna je digitale handtekening.",
     "Checklist": {
       "title": "Checklist vooraf",
-      "summary": "Vink af wat je gelezen hebt.",
       "intro": "Vink alles aan om aan te tonen dat je de info begrepen hebt.",
       "items": {
-        "read": "Ik heb alle info onder 'Info vooraf' gelezen.",
+        "read": "Ik heb alle info onder 'Algemene info' gelezen.",
         "capacity": "Ik respecteer het maximum van 40 personen aan boord.",
         "noise": "Ik weet dat geluid op het dek toegelaten is tot 22u — daarna feesten we verder binnen.",
         "smoking": "Ik weet dat roken enkel mag op het dek, aan de voorziene rookpaal.",
@@ -57,13 +53,11 @@
         "damage": "Ik begrijp dat eventuele schade aan boord aan mij wordt aangerekend.",
         "contact": "Ik heb het noodnummer 0497 80 01 16 genoteerd voor problemen aan boord."
       },
-      "completedMessage": "Alles aangevinkt — ga door naar de handtekening.",
-      "next": "Door naar handtekening"
+      "completedMessage": "Alles aangevinkt — onderteken hieronder."
     },
     "Handtekening": {
       "title": "Handtekening vooraf",
-      "summary": "Bevestig dat je akkoord gaat.",
-      "intro": "Zet hier je digitale handtekening om te bevestigen dat je akkoord gaat met de huurvoorwaarden en veiligheidsregels.",
+      "intro": "Bevestig met je digitale handtekening dat je akkoord gaat met de huurvoorwaarden en veiligheidsregels.",
       "nameLabel": "Voornaam + Familienaam",
       "namePlaceholder": "bv. Jan Janssens",
       "agreeLabel": "Ik teken digitaal en ga akkoord met de huurvoorwaarden en veiligheidsregels van Meet Puerto.",
@@ -122,12 +116,10 @@
   },
   "Afsluiten": {
     "title": "Afsluiten",
-    "summary": "Afsluitchecklist en handtekening achteraf.",
-    "intro": "Loop de checklist af, zet je handtekening, en je bent klaar. Zo blijft alles in orde voor de volgende huurder.",
-    "stepsHeading": "Twee stappen",
+    "summary": "Checklist en handtekening achteraf.",
+    "intro": "Loop de checklist af en zet daarna je handtekening — zo blijft alles in orde voor de volgende huurder.",
     "Checklist": {
       "title": "Afsluitchecklist",
-      "summary": "Vink af wat je hebt afgesloten.",
       "intro": "Vink af voor je vertrekt.",
       "items": {
         "appliancesOff": "Ik heb alle keukentoestellen (oven, microgolf, bordenverwarmer, vaatwasser, …) uitgezet.",
@@ -146,13 +138,11 @@
         "key": "De sleutel is teruggelegd in de digitale igloohome sleutelbox.",
         "loungeCovers": "De loungezetels zijn afgedekt met de beschermhoezen (vastgemaakt met de koorden, hoes onder de pootjes)."
       },
-      "completedMessage": "Alles aangevinkt — ga door naar de handtekening.",
-      "next": "Door naar handtekening"
+      "completedMessage": "Alles aangevinkt — onderteken hieronder."
     },
     "Handtekening": {
       "title": "Handtekening achteraf",
-      "summary": "Bevestig dat je alles afsloot.",
-      "intro": "Bevestig hier dat je alles hebt afgesloten zoals afgesproken. Daarna ben je klaar.",
+      "intro": "Bevestig met je digitale handtekening dat je Meet Puerto correct hebt afgesloten.",
       "nameLabel": "Voornaam + Familienaam",
       "namePlaceholder": "bv. Jan Janssens",
       "agreeLabel": "Ik bevestig dat ik Meet Puerto correct heb afgesloten volgens de checklist.",

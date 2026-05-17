@@ -1,7 +1,7 @@
 {
   "Site": {
     "title": "Meet Puerto — Onboarding",
-    "description": "Tout ce qu'il faut pour utiliser Meet Puerto, notre ponton flottant dans le port d'Ostende, en autonomie."
+    "description": "Tout ce qu'il faut pour utiliser Meet Puerto, notre ponton flottant dans la marina d'Ostende, en autonomie."
   },
   "Common": {
     "backHome": "Retour à l'aperçu",
@@ -11,45 +11,41 @@
     "label": "Langue"
   },
   "Home": {
-    "eyebrow": "Bienvenue chez",
     "title": "Meet Puerto",
-    "subtitle": "Notre lieu d'événement flottant dans le port d'Ostende. Parcourez les trois blocs ci-dessous pour accoster facilement, profiter de votre événement et tout laisser en ordre.",
-    "blocksHeading": "Trois blocs"
+    "subtitle": "Notre lieu d'événement flottant dans la marina d'Ostende. Dans cette application, vous trouverez tout ce qu'il faut pour réussir votre événement et tout laisser en ordre."
+  },
+  "Info": {
+    "title": "Infos générales",
+    "summary": "Lieu, parking, accès, règles.",
+    "intro": "Toutes les infos pratiques avant de venir chez Meet Puerto.",
+    "sections": {
+      "location": {
+        "title": "Lieu et accès",
+        "body": "Meet Puerto est amarré dans le port d'Ostende, à côté du Mercator (le voilier-école historique à trois mâts) et juste en face de l'hôtel de ville. Adresse GPS : Jan Piersplein 2, 8400 Ostende. À 8 minutes à pied de la gare d'Ostende."
+      },
+      "parking": {
+        "title": "Parking",
+        "body": "Plusieurs parkings dans les environs — consultez l'[aperçu des parkings d'Ostende](https://www.visitoostende.be/nl/parkeren)."
+      },
+      "access": {
+        "title": "Monter à bord",
+        "body": "Vous accédez au ponton via un premier portail sur le quai à l'aide d'un code d'accès fixe (envoyé avec votre confirmation de réservation). Le portail mène à la passerelle vers le pont. Sur le pont, vous trouverez un coffret à clé numérique igloohome — son code vous est envoyé par SMS, 1 heure avant le début de votre location."
+      },
+      "rules": {
+        "title": "Règles principales",
+        "body": "Maximum 40 personnes à bord. Le bruit sur le pont est autorisé jusqu'à 22h — ensuite, la fête continue à l'intérieur. Fumer est uniquement autorisé sur le pont, au pilier fumeurs prévu. Les animaux ne sont pas admis."
+      }
+    }
   },
   "Onboarden": {
     "title": "Onboarding",
-    "summary": "Infos, checklist et signature au préalable.",
-    "intro": "Avant de monter à bord : lisez les infos, complétez la checklist et signez numériquement.",
-    "stepsHeading": "Trois étapes",
-    "Info": {
-      "title": "Infos préalables",
-      "summary": "Lieu, parking, accès, règles.",
-      "intro": "Toutes les infos pratiques avant de venir chez Meet Puerto.",
-      "sections": {
-        "location": {
-          "title": "Lieu et accès",
-          "body": "Meet Puerto est amarré dans le port d'Ostende, à côté du Mercator (le voilier-école historique à trois mâts) et juste en face de l'hôtel de ville. Adresse GPS : Jan Piersplein 2, 8400 Ostende. À 8 minutes à pied de la gare d'Ostende."
-        },
-        "parking": {
-          "title": "Parking",
-          "body": "Plusieurs parkings dans les environs — un aperçu avec les tarifs est disponible sur meetpuerto.be."
-        },
-        "access": {
-          "title": "Monter à bord",
-          "body": "Vous accédez au ponton via un premier portail sur le quai à l'aide d'un code d'accès fixe (envoyé avec votre confirmation de réservation). Le portail mène à la passerelle vers le pont. Sur le pont, vous trouverez un coffret à clé numérique igloohome — son code vous est envoyé par SMS, 1 heure avant le début de votre location."
-        },
-        "rules": {
-          "title": "Règles principales",
-          "body": "Maximum 40 personnes à bord. Le bruit sur le pont est autorisé jusqu'à 22h — ensuite, la fête continue à l'intérieur. Fumer est uniquement autorisé sur le pont, au pilier fumeurs prévu. Les animaux ne sont pas admis."
-        }
-      }
-    },
+    "summary": "Checklist et signature au préalable.",
+    "intro": "Cochez tous les points pour confirmer que vous comprenez les règles, puis signez numériquement ci-dessous.",
     "Checklist": {
       "title": "Checklist préalable",
-      "summary": "Cochez ce que vous avez lu.",
       "intro": "Cochez tout pour confirmer que vous avez compris les infos.",
       "items": {
-        "read": "J'ai lu toutes les infos sous 'Infos préalables'.",
+        "read": "J'ai lu toutes les infos sous 'Infos générales'.",
         "capacity": "Je respecte le maximum de 40 personnes à bord.",
         "noise": "Je sais que le bruit sur le pont est autorisé jusqu'à 22h — ensuite, la fête continue à l'intérieur.",
         "smoking": "Je sais que fumer est uniquement autorisé sur le pont, au pilier fumeurs prévu.",
@@ -57,13 +53,11 @@
         "damage": "Je comprends que les dégâts éventuels à bord me seront facturés.",
         "contact": "J'ai noté le numéro d'urgence 0497 80 01 16 en cas de problème à bord."
       },
-      "completedMessage": "Tout est coché — passez à la signature.",
-      "next": "Passer à la signature"
+      "completedMessage": "Tout est coché — signez ci-dessous."
     },
     "Handtekening": {
       "title": "Signature préalable",
-      "summary": "Confirmez votre accord.",
-      "intro": "Signez numériquement ici pour confirmer votre accord avec les conditions de location et les règles de sécurité.",
+      "intro": "Confirmez avec votre signature numérique que vous acceptez les conditions de location et les règles de sécurité.",
       "nameLabel": "Prénom + Nom",
       "namePlaceholder": "ex. Jean Dupont",
       "agreeLabel": "Je signe numériquement et j'accepte les conditions de location et les règles de sécurité de Meet Puerto.",
@@ -123,11 +117,9 @@
   "Afsluiten": {
     "title": "Fermeture",
     "summary": "Checklist et signature après usage.",
-    "intro": "Parcourez la checklist, signez, et c'est fini. Tout reste en ordre pour le prochain locataire.",
-    "stepsHeading": "Deux étapes",
+    "intro": "Parcourez la checklist, puis signez — ainsi tout reste en ordre pour le prochain locataire.",
     "Checklist": {
       "title": "Checklist de fermeture",
-      "summary": "Cochez ce que vous avez fermé.",
       "intro": "Cochez avant de partir.",
       "items": {
         "appliancesOff": "J'ai éteint tous les appareils de cuisine (four, micro-ondes, chauffe-assiettes, lave-vaisselle, …).",
@@ -146,13 +138,11 @@
         "key": "La clé est remise dans le coffret numérique igloohome.",
         "loungeCovers": "Les chaises longues sont recouvertes de leurs housses de protection (attachées avec les cordons, housse glissée sous les pieds)."
       },
-      "completedMessage": "Tout est coché — passez à la signature.",
-      "next": "Passer à la signature"
+      "completedMessage": "Tout est coché — signez ci-dessous."
     },
     "Handtekening": {
       "title": "Signature finale",
-      "summary": "Confirmez la fermeture.",
-      "intro": "Confirmez ici que vous avez tout fermé comme convenu. Ensuite, c'est fini.",
+      "intro": "Confirmez avec votre signature numérique que vous avez correctement fermé Meet Puerto.",
       "nameLabel": "Prénom + Nom",
       "namePlaceholder": "ex. Jean Dupont",
       "agreeLabel": "Je confirme avoir correctement fermé Meet Puerto selon la checklist.",

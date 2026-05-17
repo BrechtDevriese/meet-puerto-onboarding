@@ -1,7 +1,7 @@
 {
   "Site": {
     "title": "Meet Puerto — Onboarding",
-    "description": "Everything you need to use Meet Puerto, our floating pontoon in Oostende harbor, autonomously."
+    "description": "Everything you need to use Meet Puerto, our floating pontoon in the marina of Oostende, autonomously."
   },
   "Common": {
     "backHome": "Back to overview",
@@ -11,45 +11,41 @@
     "label": "Language"
   },
   "Home": {
-    "eyebrow": "Welcome to",
     "title": "Meet Puerto",
-    "subtitle": "Our floating event venue in the harbor of Oostende. Work through the three blocks below so you can dock smoothly, run your event, and leave everything in order.",
-    "blocksHeading": "Three blocks"
+    "subtitle": "Our floating event venue in the marina of Oostende. In this app you'll find everything you need to make your event a success and leave everything tidy."
+  },
+  "Info": {
+    "title": "General info",
+    "summary": "Location, parking, access, rules.",
+    "intro": "All the practical info you need before coming to Meet Puerto.",
+    "sections": {
+      "location": {
+        "title": "Location & directions",
+        "body": "Meet Puerto is moored in the harbor of Oostende, next to the Mercator (the historic three-masted training ship) and directly opposite the city hall. GPS address: Jan Piersplein 2, 8400 Oostende. An 8-minute walk from Oostende station."
+      },
+      "parking": {
+        "title": "Parking",
+        "body": "Several car parks in the area — see the [Oostende parking overview](https://www.visitoostende.be/nl/parkeren)."
+      },
+      "access": {
+        "title": "Coming aboard",
+        "body": "You enter the venue through a first gate on the quay using a fixed access code (sent with your booking confirmation). The gate leads to the gangway up to the deck. On the deck you'll find a digital igloohome key safe — its code is sent to you by SMS, 1 hour before the start of your rental."
+      },
+      "rules": {
+        "title": "Key rules",
+        "body": "Maximum 40 people on board. Noise on the deck is allowed until 10 PM — after that, the party continues inside. Smoking is only allowed on the deck, at the designated smoking post. Pets are not permitted."
+      }
+    }
   },
   "Onboarden": {
     "title": "Onboarding",
-    "summary": "Info, checklist and signature beforehand.",
-    "intro": "Before you come aboard: read the info, complete the checklist, and sign digitally.",
-    "stepsHeading": "Three steps",
-    "Info": {
-      "title": "Info beforehand",
-      "summary": "Location, parking, access, rules.",
-      "intro": "All the practical info you need before coming to Meet Puerto.",
-      "sections": {
-        "location": {
-          "title": "Location & directions",
-          "body": "Meet Puerto is moored in the harbor of Oostende, next to the Mercator (the historic three-masted training ship) and directly opposite the city hall. GPS address: Jan Piersplein 2, 8400 Oostende. An 8-minute walk from Oostende station."
-        },
-        "parking": {
-          "title": "Parking",
-          "body": "Several car parks in the area — an overview with rates is available on meetpuerto.be."
-        },
-        "access": {
-          "title": "Coming aboard",
-          "body": "You enter the venue through a first gate on the quay using a fixed access code (sent with your booking confirmation). The gate leads to the gangway up to the deck. On the deck you'll find a digital igloohome key safe — its code is sent to you by SMS, 1 hour before the start of your rental."
-        },
-        "rules": {
-          "title": "Key rules",
-          "body": "Maximum 40 people on board. Noise on the deck is allowed until 10 PM — after that, the party continues inside. Smoking is only allowed on the deck, at the designated smoking post. Pets are not permitted."
-        }
-      }
-    },
+    "summary": "Checklist and signature beforehand.",
+    "intro": "Tick all items to confirm you understand the house rules, then sign digitally below.",
     "Checklist": {
       "title": "Pre-arrival checklist",
-      "summary": "Tick what you've read.",
       "intro": "Tick everything to confirm you've understood the info.",
       "items": {
-        "read": "I have read all the info under 'Info beforehand'.",
+        "read": "I have read all the info under 'General info'.",
         "capacity": "I will respect the 40-person maximum on board.",
         "noise": "I know that noise on the deck is allowed until 10 PM — after that, the party continues inside.",
         "smoking": "I know that smoking is only allowed on the deck, at the designated smoking post.",
@@ -57,13 +53,11 @@
         "damage": "I understand that any damage on board will be charged to me.",
         "contact": "I have noted the emergency number 0497 80 01 16 for problems on board."
       },
-      "completedMessage": "All ticked — continue to the signature.",
-      "next": "Continue to signature"
+      "completedMessage": "All ticked — sign below."
     },
     "Handtekening": {
       "title": "Signature beforehand",
-      "summary": "Confirm you agree.",
-      "intro": "Sign digitally here to confirm that you agree with the rental conditions and safety rules.",
+      "intro": "Confirm with your digital signature that you agree with the rental conditions and safety rules.",
       "nameLabel": "First and last name",
       "namePlaceholder": "e.g. Jan Janssens",
       "agreeLabel": "I sign digitally and agree with the rental conditions and safety rules of Meet Puerto.",
@@ -123,11 +117,9 @@
   "Afsluiten": {
     "title": "Closing up",
     "summary": "Closing checklist and signature afterwards.",
-    "intro": "Run through the checklist, sign, and you're done. Keep things in order for the next renter.",
-    "stepsHeading": "Two steps",
+    "intro": "Run through the checklist, then sign — so everything stays in order for the next renter.",
     "Checklist": {
       "title": "Closing checklist",
-      "summary": "Tick what you've closed.",
       "intro": "Tick everything before you leave.",
       "items": {
         "appliancesOff": "I turned off all kitchen appliances (oven, microwave, plate warmer, dishwasher, …).",
@@ -146,13 +138,11 @@
         "key": "The key has been returned to the igloohome digital key safe.",
         "loungeCovers": "The lounge chairs are covered with their protective covers (tied with the cords, cover tucked under the legs)."
       },
-      "completedMessage": "All ticked — continue to the signature.",
-      "next": "Continue to signature"
+      "completedMessage": "All ticked — sign below."
     },
     "Handtekening": {
       "title": "Signature afterwards",
-      "summary": "Confirm you closed up.",
-      "intro": "Confirm here that you've closed everything as agreed. Then you're done.",
+      "intro": "Confirm with your digital signature that you've closed Meet Puerto correctly.",
       "nameLabel": "First and last name",
       "namePlaceholder": "e.g. Jan Janssens",
       "agreeLabel": "I confirm that I closed Meet Puerto correctly following the checklist.",

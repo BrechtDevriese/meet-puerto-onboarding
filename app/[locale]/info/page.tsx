@@ -1,10 +1,10 @@
 import {getTranslations, setRequestLocale} from 'next-intl/server';
-import {Link} from '@/i18n/navigation';
 import PageHeader from '@/app/components/PageHeader';
+import {renderBody} from '@/lib/renderBody';
 
 const SECTION_KEYS = ['location', 'parking', 'access', 'rules'] as const;
 
-export default async function OnboardenInfoPage({
+export default async function InfoPage({
   params
 }: {
   params: Promise<{locale: string}>;
@@ -12,16 +12,15 @@ export default async function OnboardenInfoPage({
   const {locale} = await params;
   setRequestLocale(locale);
 
-  const t = await getTranslations({locale, namespace: 'Onboarden.Info'});
-  const tParent = await getTranslations({locale, namespace: 'Onboarden'});
-  const tChe = await getTranslations({locale, namespace: 'Onboarden.Checklist'});
+  const t = await getTranslations({locale, namespace: 'Info'});
+  const tCommon = await getTranslations({locale, namespace: 'Common'});
 
   return (
     <main className="flex flex-1 flex-col px-6 py-10 sm:px-10 sm:py-16">
       <div className="mx-auto flex w-full max-w-2xl flex-col gap-10">
         <PageHeader
-          backHref="/onboarden"
-          backLabel={tParent('title')}
+          backHref="/"
+          backLabel={tCommon('backHome')}
           title={t('title')}
           intro={t('intro')}
         />
@@ -36,18 +35,11 @@ export default async function OnboardenInfoPage({
                 {t(`sections.${key}.title`)}
               </h2>
               <p className="leading-relaxed text-zinc-700 dark:text-zinc-300">
-                {t(`sections.${key}.body`)}
+                {renderBody(t(`sections.${key}.body`))}
               </p>
             </article>
           ))}
         </div>
-
-        <Link
-          href="/onboarden/checklist"
-          className="inline-flex h-12 items-center justify-center self-start rounded-full bg-zinc-900 px-6 font-medium text-zinc-50 transition-colors hover:bg-zinc-700 dark:bg-zinc-50 dark:text-zinc-900 dark:hover:bg-zinc-200"
-        >
-          {tChe('title')} →
-        </Link>
       </div>
     </main>
   );
