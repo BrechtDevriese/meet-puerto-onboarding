@@ -49,7 +49,7 @@ export default async function HomePage({
         <header className="flex items-center justify-between gap-4">
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
-            src="/logo.svg"
+            src="/logo.png"
             alt="Meet Puerto"
             className="h-12 w-auto"
           />
