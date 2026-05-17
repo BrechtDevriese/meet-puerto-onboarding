@@ -1,0 +1,157 @@
+{
+  "Site": {
+    "title": "Meet Puerto — Onboarding",
+    "description": "Everything you need to use Meet Puerto, our floating pontoon in Oostende harbor, autonomously."
+  },
+  "Common": {
+    "backHome": "Back to overview",
+    "backTo": "Back to {target}"
+  },
+  "LocaleSwitch": {
+    "label": "Language"
+  },
+  "Home": {
+    "eyebrow": "Welcome to",
+    "title": "Meet Puerto",
+    "subtitle": "Our floating event venue in the harbor of Oostende. Work through the three blocks below so you can dock smoothly, run your event, and leave everything in order.",
+    "blocksHeading": "Three blocks"
+  },
+  "Onboarden": {
+    "title": "Onboarding",
+    "summary": "Info, checklist and signature beforehand.",
+    "intro": "Before you come aboard: read the info, complete the checklist, and sign digitally.",
+    "stepsHeading": "Three steps",
+    "Info": {
+      "title": "Info beforehand",
+      "summary": "Location, parking, access, rules.",
+      "intro": "All the practical info you need before coming to Meet Puerto.",
+      "sections": {
+        "location": {
+          "title": "Location & directions",
+          "body": "Meet Puerto is moored in the harbor of Oostende, pontoon P3. An 8-minute walk from Oostende station."
+        },
+        "parking": {
+          "title": "Parking",
+          "body": "Paid parking at Visserskaai harbor car park (5 min walk). Brief loading/unloading on the quay is allowed — do not stay parked there."
+        },
+        "access": {
+          "title": "Coming aboard",
+          "body": "Reach the pontoon via the gangway. You'll receive the access code by email 1 hour beforehand. Wear flat or sturdy shoes — the gangway can be slippery in rain."
+        },
+        "rules": {
+          "title": "Key rules",
+          "body": "Life jackets are required for children under 12. No swimming or jumping from the pontoon. No open fire. Noise rules apply until 10 PM, after which the party continues inside with the windows closed."
+        }
+      }
+    },
+    "Checklist": {
+      "title": "Pre-arrival checklist",
+      "summary": "Tick what you've read.",
+      "intro": "Tick everything to confirm you've understood the info.",
+      "items": {
+        "read": "I have read all the info under 'Info beforehand'.",
+        "safety": "I understand the safety rules about water, children, and the swimming ban.",
+        "noise": "I know that from 10 PM we keep the party inside with the windows closed.",
+        "damage": "I understand that any damage on board will be charged to me.",
+        "contact": "I have noted the emergency number 0800-XX-XXX for problems on board."
+      },
+      "completedMessage": "All ticked — continue to the signature.",
+      "next": "Continue to signature"
+    },
+    "Handtekening": {
+      "title": "Signature beforehand",
+      "summary": "Confirm you agree.",
+      "intro": "Sign digitally here to confirm that you agree with the rental conditions and safety rules.",
+      "nameLabel": "First and last name",
+      "namePlaceholder": "e.g. Jan Janssens",
+      "agreeLabel": "I sign digitally and agree with the rental conditions and safety rules of Meet Puerto.",
+      "submitButton": "Confirm signature",
+      "successTitle": "Thank you!",
+      "successMessage": "Your signature has been recorded. Enjoy Meet Puerto.",
+      "signedOn": "Signed on {date}",
+      "next": "Continue to Use"
+    }
+  },
+  "Gebruik": {
+    "title": "Using the venue",
+    "summary": "Instructions per room aboard.",
+    "intro": "Each room on board has a QR code that takes you to the right instructions. Or click below.",
+    "roomsHeading": "Three rooms",
+    "Dek": {
+      "title": "Deck",
+      "summary": "Outdoor area on the pontoon.",
+      "intro": "The deck is the outdoor area around Meet Puerto. A great spot for drinks — please keep the following in mind.",
+      "items": {
+        "railing": "Keep children under 12 in view. The railing is there for safety, but climbing or jumping is forbidden.",
+        "lifebuoy": "Two lifebuoys are mounted on the deck, one at each end. Do not remove them.",
+        "weather": "From wind force 6 onwards: bring tables and parasols inside — the harbor master notifies in advance.",
+        "smoking": "Smoking is allowed on the deck, use the ashtrays. No cigarette butts in the water."
+      }
+    },
+    "Eventruimte": {
+      "title": "Event hall",
+      "summary": "Indoor space with bar and AV.",
+      "intro": "The main room with bar, seating and table layout. Here you'll find controls for lights, sound and climate.",
+      "items": {
+        "lights": "Control the lights via the panel next to the bar. Three scenes: 'Dinner', 'Reception', 'Party'.",
+        "av": "Turn the projector, screen and speakers on with the remote in the drawer under the panel. HDMI cable is ready.",
+        "climate": "Heating and air conditioning are controlled via the wall tablet. Free to set between 19 and 24°C.",
+        "wifi": "Wi-Fi: network 'MeetPuerto-Guest', the password is on the board behind the bar.",
+        "windows": "Slide the large windows open via the handles — not past the stop. Close them when it rains."
+      }
+    },
+    "Keuken": {
+      "title": "Kitchen",
+      "summary": "Compact catering kitchen.",
+      "intro": "Fully equipped catering kitchen with induction, oven and dishwasher. Compact aboard, but efficiently organised.",
+      "items": {
+        "induction": "Induction hob: turn on via the touch panel. Pans must have a magnetic base.",
+        "oven": "The oven has 'Convection', 'Top/bottom' and 'Steam'. Pre-heating takes about 8 minutes.",
+        "dishwasher": "Dishwasher: use only the Eco tablets provided. The 'Eco 50°C' programme takes 1h30.",
+        "water": "Drinking water comes from the tank and is normally drinkable. The tank is refilled automatically.",
+        "waste": "Sort waste in the three bins: PMD, paper, residual. Glass in the container on the quay."
+      }
+    }
+  },
+  "Afsluiten": {
+    "title": "Closing up",
+    "summary": "Closing checklist and signature afterwards.",
+    "intro": "Run through the checklist, sign, and you're done. Keep things in order for the next renter.",
+    "stepsHeading": "Two steps",
+    "Checklist": {
+      "title": "Closing checklist",
+      "summary": "Tick what you've closed.",
+      "intro": "Tick everything before you leave.",
+      "items": {
+        "trash": "Waste sorted in the three bins; glass to the container on the quay.",
+        "dishes": "Dishes loaded, Eco programme started.",
+        "kitchen": "Worktops and hob wiped down; oven off and door slightly open.",
+        "tables": "Tables and chairs returned to their original positions.",
+        "av": "Projector, screen, speakers and lights off via the panel.",
+        "windows": "All windows and deck doors closed.",
+        "deck": "Nothing personal left on the deck; ashtrays emptied into residual waste.",
+        "lights": "Main lights off via the master switch at the exit.",
+        "door": "Front door pulled firmly closed until you hear 'click' — the lock engages automatically."
+      },
+      "completedMessage": "All ticked — continue to the signature.",
+      "next": "Continue to signature"
+    },
+    "Handtekening": {
+      "title": "Signature afterwards",
+      "summary": "Confirm you closed up.",
+      "intro": "Confirm here that you've closed everything as agreed. Then you're done.",
+      "nameLabel": "First and last name",
+      "namePlaceholder": "e.g. Jan Janssens",
+      "agreeLabel": "I confirm that I closed Meet Puerto correctly following the checklist.",
+      "submitButton": "Confirm signature",
+      "successTitle": "Thank you!",
+      "successMessage": "Your closing has been confirmed. See you next time at Meet Puerto.",
+      "signedOn": "Signed on {date}"
+    }
+  },
+  "NotFound": {
+    "title": "Page not found",
+    "message": "This page doesn't exist.",
+    "home": "Back to overview"
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "Site": {
+    "title": "Meet Puerto — Onboarding",
+    "description": "Alles wat je nodig hebt om Meet Puerto, ons drijvend ponton in de haven van Oostende, autonoom te gebruiken."
+  },
+  "Common": {
+    "backHome": "Naar startpagina",
+    "backTo": "Terug naar {target}"
+  },
+  "LocaleSwitch": {
+    "label": "Taal"
+  },
+  "Home": {
+    "eyebrow": "Welkom bij",
+    "title": "Meet Puerto",
+    "subtitle": "Onze drijvende eventlocatie in de haven van Oostende. Doorloop de drie blokken hieronder zodat je vlot kan aanleggen, je event laten doorgaan en alles netjes kan achterlaten.",
+    "blocksHeading": "Drie blokken"
+  },
+  "Onboarden": {
+    "title": "Onboarden",
+    "summary": "Info, checklist en handtekening vooraf.",
+    "intro": "Voor je aan boord komt: lees de info, vink de checklist af en zet je digitale handtekening.",
+    "stepsHeading": "Drie stappen",
+    "Info": {
+      "title": "Info vooraf",
+      "summary": "Locatie, parking, toegang, regels.",
+      "intro": "Hier vind je alle praktische info voor je naar Meet Puerto komt.",
+      "sections": {
+        "location": {
+          "title": "Locatie & bereikbaarheid",
+          "body": "Meet Puerto ligt aangemeerd in de haven van Oostende, ponton P3. Te voet 8 minuten van het station Oostende."
+        },
+        "parking": {
+          "title": "Parking",
+          "body": "Betalend parkeren in de havenparking Visserskaai (5 min wandelen). Laden/lossen mag kort op de kade — niet blijven staan."
+        },
+        "access": {
+          "title": "Aan boord komen",
+          "body": "Bereik het ponton via de loopbrug. De toegangscode krijg je 1 uur vooraf per mail. Trek platte schoenen of stevig schoeisel aan — de loopbrug kan glad zijn bij regen."
+        },
+        "rules": {
+          "title": "Belangrijkste regels",
+          "body": "Veiligheidsvest verplicht voor kinderen onder 12. Niet zwemmen of springen vanaf het ponton. Geen open vuur. Geluidsnorm tot 22u, daarna binnen feesten met de ramen dicht."
+        }
+      }
+    },
+    "Checklist": {
+      "title": "Checklist vooraf",
+      "summary": "Vink af wat je gelezen hebt.",
+      "intro": "Vink alles aan om aan te tonen dat je de info begrepen hebt.",
+      "items": {
+        "read": "Ik heb alle info onder 'Info vooraf' gelezen.",
+        "safety": "Ik begrijp de veiligheidsregels rond water, kinderen en het zwemverbod.",
+        "noise": "Ik weet dat we vanaf 22u binnen feesten met de ramen dicht.",
+        "damage": "Ik begrijp dat eventuele schade aan boord aan mij wordt aangerekend.",
+        "contact": "Ik heb het noodnummer 0800-XX-XXX genoteerd voor problemen aan boord."
+      },
+      "completedMessage": "Alles aangevinkt — ga door naar de handtekening.",
+      "next": "Door naar handtekening"
+    },
+    "Handtekening": {
+      "title": "Handtekening vooraf",
+      "summary": "Bevestig dat je akkoord gaat.",
+      "intro": "Zet hier je digitale handtekening om te bevestigen dat je akkoord gaat met de huurvoorwaarden en veiligheidsregels.",
+      "nameLabel": "Voornaam + Familienaam",
+      "namePlaceholder": "bv. Jan Janssens",
+      "agreeLabel": "Ik teken digitaal en ga akkoord met de huurvoorwaarden en veiligheidsregels van Meet Puerto.",
+      "submitButton": "Bevestig handtekening",
+      "successTitle": "Bedankt!",
+      "successMessage": "Je handtekening is geregistreerd. Veel plezier op Meet Puerto.",
+      "signedOn": "Ondertekend op {date}",
+      "next": "Door naar Gebruik"
+    }
+  },
+  "Gebruik": {
+    "title": "Gebruik van de locatie",
+    "summary": "Instructies per ruimte aan boord.",
+    "intro": "In elke ruimte aan boord vind je een QR-code die je naar de juiste instructies brengt. Of klik hieronder.",
+    "roomsHeading": "Drie ruimtes",
+    "Dek": {
+      "title": "Dek",
+      "summary": "Buitenruimte op het ponton.",
+      "intro": "Het dek is de buitenruimte rond Meet Puerto. Een mooie plek voor een aperitief, maar hou rekening met onderstaande.",
+      "items": {
+        "railing": "Hou kinderen onder 12 in zicht. De reling beschermt, maar klimmen of springen is verboden.",
+        "lifebuoy": "Twee reddingsboeien hangen aan het dek, één aan elk uiteinde. Niet weghalen.",
+        "weather": "Bij windkracht 6 of meer: tafels en parasols binnenzetten — de havenmeester verwittigt vooraf.",
+        "smoking": "Roken mag op het dek, gebruik de asbakken. Geen peuken in het water."
+      }
+    },
+    "Eventruimte": {
+      "title": "Eventruimte",
+      "summary": "Binnenruimte met bar en AV.",
+      "intro": "De hoofdruimte met bar, zit- en tafelopstelling. Hier vind je de bediening voor licht, geluid en klimaat.",
+      "items": {
+        "lights": "Lichten bedien je via het paneel naast de bar. Drie scenes: 'Diner', 'Receptie', 'Feest'.",
+        "av": "Beamer, scherm en speakers zet je aan met de afstandsbediening in de la onder het paneel. HDMI-kabel ligt klaar.",
+        "climate": "Verwarming en airco regel je via het tablet aan de muur. Tussen 19 en 24°C vrij in te stellen.",
+        "wifi": "Wifi: netwerk 'MeetPuerto-Guest', wachtwoord staat op het bord achter de bar.",
+        "windows": "De grote ramen schuif je open via de hendels — niet verder dan tot de stop. Bij regen sluiten."
+      }
+    },
+    "Keuken": {
+      "title": "Keuken",
+      "summary": "Compacte cateringkeuken.",
+      "intro": "Volledig uitgeruste cateringkeuken met inductie, oven en vaatwasser. Compact aan boord, dus efficiënt georganiseerd.",
+      "items": {
+        "induction": "Inductievuur: aanzetten via touchpaneel. Pannen moeten een magnetische bodem hebben.",
+        "oven": "De oven heeft 'Hetelucht', 'Boven/onder' en 'Stoom'. Voorverwarmen duurt ongeveer 8 minuten.",
+        "dishwasher": "Vaatwasser: enkel met de aanwezige Eco-tabletten. Programma 'Eco 50°C' duurt 1u30.",
+        "water": "Drinkwater komt uit de tank en is gewoon drinkbaar. De tank wordt automatisch bijgevuld.",
+        "waste": "Sorteer afval in de drie bakken: PMD, papier, restafval. Glas in de container op de kade."
+      }
+    }
+  },
+  "Afsluiten": {
+    "title": "Afsluiten",
+    "summary": "Afsluitchecklist en handtekening achteraf.",
+    "intro": "Loop de checklist af, zet je handtekening, en je bent klaar. Zo blijft alles in orde voor de volgende huurder.",
+    "stepsHeading": "Twee stappen",
+    "Checklist": {
+      "title": "Afsluitchecklist",
+      "summary": "Vink af wat je hebt afgesloten.",
+      "intro": "Vink af voor je vertrekt.",
+      "items": {
+        "trash": "Afval gesorteerd in de drie bakken; glas naar de container op de kade.",
+        "dishes": "Vaat in de vaatwasser, Eco-programma gestart.",
+        "kitchen": "Werkbladen en kookplaat schoongeveegd; oven uit en deur op een kier.",
+        "tables": "Tafels en stoelen teruggezet zoals bij aankomst.",
+        "av": "Beamer, scherm, speakers en lichten uit via het paneel.",
+        "windows": "Alle ramen en deuren naar het dek gesloten.",
+        "deck": "Niets persoonlijks meer op het dek; asbakken geleegd in restafval.",
+        "lights": "Hoofdlichten uit via de hoofdschakelaar bij de uitgang.",
+        "door": "Toegangsdeur stevig dichttrekken tot je 'klik' hoort — het slot vergrendelt automatisch."
+      },
+      "completedMessage": "Alles aangevinkt — ga door naar de handtekening.",
+      "next": "Door naar handtekening"
+    },
+    "Handtekening": {
+      "title": "Handtekening achteraf",
+      "summary": "Bevestig dat je alles afsloot.",
+      "intro": "Bevestig hier dat je alles hebt afgesloten zoals afgesproken. Daarna ben je klaar.",
+      "nameLabel": "Voornaam + Familienaam",
+      "namePlaceholder": "bv. Jan Janssens",
+      "agreeLabel": "Ik bevestig dat ik Meet Puerto correct heb afgesloten volgens de checklist.",
+      "submitButton": "Bevestig handtekening",
+      "successTitle": "Bedankt!",
+      "successMessage": "Je afsluiting is bevestigd. Tot een volgende keer op Meet Puerto.",
+      "signedOn": "Ondertekend op {date}"
+    }
+  },
+  "NotFound": {
+    "title": "Pagina niet gevonden",
+    "message": "Deze pagina bestaat niet.",
+    "home": "Terug naar overzicht"
+  }
+}

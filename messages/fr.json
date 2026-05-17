@@ -1,0 +1,157 @@
+{
+  "Site": {
+    "title": "Meet Puerto — Onboarding",
+    "description": "Tout ce qu'il faut pour utiliser Meet Puerto, notre ponton flottant dans le port d'Ostende, en autonomie."
+  },
+  "Common": {
+    "backHome": "Retour à l'aperçu",
+    "backTo": "Retour à {target}"
+  },
+  "LocaleSwitch": {
+    "label": "Langue"
+  },
+  "Home": {
+    "eyebrow": "Bienvenue chez",
+    "title": "Meet Puerto",
+    "subtitle": "Notre lieu d'événement flottant dans le port d'Ostende. Parcourez les trois blocs ci-dessous pour accoster facilement, profiter de votre événement et tout laisser en ordre.",
+    "blocksHeading": "Trois blocs"
+  },
+  "Onboarden": {
+    "title": "Onboarding",
+    "summary": "Infos, checklist et signature au préalable.",
+    "intro": "Avant de monter à bord : lisez les infos, complétez la checklist et signez numériquement.",
+    "stepsHeading": "Trois étapes",
+    "Info": {
+      "title": "Infos préalables",
+      "summary": "Lieu, parking, accès, règles.",
+      "intro": "Toutes les infos pratiques avant de venir chez Meet Puerto.",
+      "sections": {
+        "location": {
+          "title": "Lieu et accès",
+          "body": "Meet Puerto est amarré dans le port d'Ostende, ponton P3. À 8 minutes à pied de la gare d'Ostende."
+        },
+        "parking": {
+          "title": "Parking",
+          "body": "Parking payant au parking Visserskaai (5 min à pied). Chargement/déchargement bref autorisé sur le quai — ne pas y rester stationné."
+        },
+        "access": {
+          "title": "Monter à bord",
+          "body": "Rejoignez le ponton par la passerelle. Le code d'accès vous est envoyé par e-mail 1 heure à l'avance. Portez des chaussures plates ou solides — la passerelle peut glisser par temps de pluie."
+        },
+        "rules": {
+          "title": "Règles principales",
+          "body": "Gilet de sauvetage obligatoire pour les enfants de moins de 12 ans. Pas de baignade ni de saut depuis le ponton. Pas de feu ouvert. Niveau sonore jusqu'à 22h, ensuite la fête continue à l'intérieur avec les fenêtres fermées."
+        }
+      }
+    },
+    "Checklist": {
+      "title": "Checklist préalable",
+      "summary": "Cochez ce que vous avez lu.",
+      "intro": "Cochez tout pour confirmer que vous avez compris les infos.",
+      "items": {
+        "read": "J'ai lu toutes les infos sous 'Infos préalables'.",
+        "safety": "Je comprends les règles de sécurité concernant l'eau, les enfants et l'interdiction de baignade.",
+        "noise": "Je sais qu'à partir de 22h la fête continue à l'intérieur avec les fenêtres fermées.",
+        "damage": "Je comprends que les dégâts éventuels à bord me seront facturés.",
+        "contact": "J'ai noté le numéro d'urgence 0800-XX-XXX en cas de problème à bord."
+      },
+      "completedMessage": "Tout est coché — passez à la signature.",
+      "next": "Passer à la signature"
+    },
+    "Handtekening": {
+      "title": "Signature préalable",
+      "summary": "Confirmez votre accord.",
+      "intro": "Signez numériquement ici pour confirmer votre accord avec les conditions de location et les règles de sécurité.",
+      "nameLabel": "Prénom + Nom",
+      "namePlaceholder": "ex. Jean Dupont",
+      "agreeLabel": "Je signe numériquement et j'accepte les conditions de location et les règles de sécurité de Meet Puerto.",
+      "submitButton": "Confirmer la signature",
+      "successTitle": "Merci !",
+      "successMessage": "Votre signature est enregistrée. Profitez de Meet Puerto.",
+      "signedOn": "Signé le {date}",
+      "next": "Passer à l'utilisation"
+    }
+  },
+  "Gebruik": {
+    "title": "Utilisation de la salle",
+    "summary": "Instructions par espace à bord.",
+    "intro": "Chaque espace à bord possède un QR code qui mène aux bonnes instructions. Ou cliquez ci-dessous.",
+    "roomsHeading": "Trois espaces",
+    "Dek": {
+      "title": "Pont",
+      "summary": "Espace extérieur sur le ponton.",
+      "intro": "Le pont est l'espace extérieur autour de Meet Puerto. Un bel endroit pour l'apéritif — tenez compte des points suivants.",
+      "items": {
+        "railing": "Gardez les enfants de moins de 12 ans à vue. La rambarde protège, mais grimper ou sauter est interdit.",
+        "lifebuoy": "Deux bouées de sauvetage sont fixées sur le pont, une à chaque extrémité. Ne pas les retirer.",
+        "weather": "À partir de vent de force 6 : rentrez tables et parasols — le maître de port prévient à l'avance.",
+        "smoking": "Fumer est autorisé sur le pont, utilisez les cendriers. Pas de mégots dans l'eau."
+      }
+    },
+    "Eventruimte": {
+      "title": "Salle d'événement",
+      "summary": "Espace intérieur avec bar et AV.",
+      "intro": "La pièce principale avec bar, assises et tables. Vous y trouverez les commandes pour la lumière, le son et le climat.",
+      "items": {
+        "lights": "Les lumières se règlent via le panneau à côté du bar. Trois scènes : 'Dîner', 'Réception', 'Fête'.",
+        "av": "Allumez projecteur, écran et enceintes avec la télécommande dans le tiroir sous le panneau. Câble HDMI prêt.",
+        "climate": "Chauffage et climatisation se règlent via la tablette murale. Libre entre 19 et 24°C.",
+        "wifi": "Wi-Fi : réseau 'MeetPuerto-Guest', mot de passe sur le tableau derrière le bar.",
+        "windows": "Faites coulisser les grandes fenêtres avec les poignées — ne pas dépasser la butée. Fermer en cas de pluie."
+      }
+    },
+    "Keuken": {
+      "title": "Cuisine",
+      "summary": "Cuisine traiteur compacte.",
+      "intro": "Cuisine traiteur entièrement équipée avec induction, four et lave-vaisselle. Compacte à bord, mais bien organisée.",
+      "items": {
+        "induction": "Plaque à induction : allumer via le panneau tactile. Les casseroles doivent avoir un fond magnétique.",
+        "oven": "Le four a 'Chaleur tournante', 'Haut/bas' et 'Vapeur'. Le préchauffage prend environ 8 minutes.",
+        "dishwasher": "Lave-vaisselle : uniquement avec les tablettes Eco fournies. Le programme 'Eco 50°C' dure 1h30.",
+        "water": "L'eau potable provient du réservoir et est buvable. Le réservoir se remplit automatiquement.",
+        "waste": "Triez les déchets dans les trois bacs : PMC, papier, résiduel. Verre dans le conteneur sur le quai."
+      }
+    }
+  },
+  "Afsluiten": {
+    "title": "Fermeture",
+    "summary": "Checklist et signature après usage.",
+    "intro": "Parcourez la checklist, signez, et c'est fini. Tout reste en ordre pour le prochain locataire.",
+    "stepsHeading": "Deux étapes",
+    "Checklist": {
+      "title": "Checklist de fermeture",
+      "summary": "Cochez ce que vous avez fermé.",
+      "intro": "Cochez avant de partir.",
+      "items": {
+        "trash": "Déchets triés dans les trois bacs ; verre dans le conteneur sur le quai.",
+        "dishes": "Vaisselle chargée, programme Eco lancé.",
+        "kitchen": "Plans de travail et plaque essuyés ; four éteint et porte entrouverte.",
+        "tables": "Tables et chaises remises comme à l'arrivée.",
+        "av": "Projecteur, écran, enceintes et lumières éteints via le panneau.",
+        "windows": "Toutes les fenêtres et portes vers le pont fermées.",
+        "deck": "Rien de personnel laissé sur le pont ; cendriers vidés dans les résiduels.",
+        "lights": "Lumières principales éteintes via l'interrupteur principal à la sortie.",
+        "door": "Porte d'entrée tirée fermement jusqu'à entendre 'clic' — le verrou s'enclenche automatiquement."
+      },
+      "completedMessage": "Tout est coché — passez à la signature.",
+      "next": "Passer à la signature"
+    },
+    "Handtekening": {
+      "title": "Signature finale",
+      "summary": "Confirmez la fermeture.",
+      "intro": "Confirmez ici que vous avez tout fermé comme convenu. Ensuite, c'est fini.",
+      "nameLabel": "Prénom + Nom",
+      "namePlaceholder": "ex. Jean Dupont",
+      "agreeLabel": "Je confirme avoir correctement fermé Meet Puerto selon la checklist.",
+      "submitButton": "Confirmer la signature",
+      "successTitle": "Merci !",
+      "successMessage": "Votre fermeture est confirmée. À la prochaine sur Meet Puerto.",
+      "signedOn": "Signé le {date}"
+    }
+  },
+  "NotFound": {
+    "title": "Page introuvable",
+    "message": "Cette page n'existe pas.",
+    "home": "Retour à l'aperçu"
+  }
+}
