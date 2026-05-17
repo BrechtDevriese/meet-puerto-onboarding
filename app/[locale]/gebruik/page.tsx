@@ -2,12 +2,11 @@ import {getTranslations, setRequestLocale} from 'next-intl/server';
 import PageHeader from '@/app/components/PageHeader';
 import {Link} from '@/i18n/navigation';
 
-type Hotspot = {
+type Room = {
   href: string;
-  label: string;
-  number: number;
-  top: string;
-  left: string;
+  title: string;
+  summary: string;
+  photo: string;
 };
 
 export default async function GebruikOverview({
@@ -24,16 +23,25 @@ export default async function GebruikOverview({
   const tEvent = await getTranslations({locale, namespace: 'Gebruik.Eventruimte'});
   const tKeu = await getTranslations({locale, namespace: 'Gebruik.Keuken'});
 
-  const hotspots: Hotspot[] = [
-    {href: '/gebruik/dek', label: tDek('title'), number: 1, top: '17%', left: '32%'},
+  const rooms: Room[] = [
+    {
+      href: '/gebruik/dek',
+      title: tDek('title'),
+      summary: tDek('summary'),
+      photo: '/dek.jpg'
+    },
     {
       href: '/gebruik/eventruimte',
-      label: tEvent('title'),
-      number: 2,
-      top: '65%',
-      left: '38%'
+      title: tEvent('title'),
+      summary: tEvent('summary'),
+      photo: '/eventruimte.jpg'
     },
-    {href: '/gebruik/keuken', label: tKeu('title'), number: 3, top: '61%', left: '85%'}
+    {
+      href: '/gebruik/keuken',
+      title: tKeu('title'),
+      summary: tKeu('summary'),
+      photo: '/keuken.jpg'
+    }
   ];
 
   return (
@@ -46,30 +54,35 @@ export default async function GebruikOverview({
           intro={t('intro')}
         />
 
-        <div className="relative overflow-hidden rounded-2xl bg-zinc-50 dark:bg-zinc-900">
-          {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img
-            src="/gebruikoverzicht.jpg"
-            alt=""
-            className="block h-auto w-full"
-          />
-          {hotspots.map((spot) => (
-            <Link
-              key={spot.href}
-              href={spot.href}
-              aria-label={spot.label}
-              className="group absolute flex -translate-x-1/2 -translate-y-1/2 flex-col items-center gap-2"
-              style={{top: spot.top, left: spot.left}}
-            >
-              <span className="flex h-12 w-12 items-center justify-center rounded-full bg-[#77A3A7] text-lg font-semibold text-white shadow-lg ring-2 ring-white transition-transform group-hover:scale-110 group-focus-visible:scale-110">
-                {spot.number}
-              </span>
-              <span className="whitespace-nowrap rounded-full bg-white/95 px-3 py-1 text-xs font-semibold text-zinc-900 shadow-md">
-                {spot.label}
-              </span>
-            </Link>
+        <ul className="flex flex-col gap-4">
+          {rooms.map((room) => (
+            <li key={room.href}>
+              <Link
+                href={room.href}
+                className="group block overflow-hidden rounded-2xl bg-[#77A3A7] text-white shadow-sm transition-all hover:bg-[#658e91] hover:shadow"
+              >
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img
+                  src={room.photo}
+                  alt=""
+                  className="aspect-[16/9] w-full bg-zinc-200 object-cover transition-transform group-hover:scale-[1.02] dark:bg-zinc-800"
+                />
+                <div className="flex items-center gap-4 p-5">
+                  <span className="flex flex-1 flex-col">
+                    <span className="text-lg font-semibold">{room.title}</span>
+                    <span className="text-sm text-white/85">{room.summary}</span>
+                  </span>
+                  <span
+                    aria-hidden
+                    className="text-white/80 transition-transform group-hover:translate-x-0.5"
+                  >
+                    →
+                  </span>
+                </div>
+              </Link>
+            </li>
           ))}
-        </div>
+        </ul>
       </div>
     </main>
   );
