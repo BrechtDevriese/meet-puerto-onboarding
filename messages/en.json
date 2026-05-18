@@ -1,0 +1,156 @@
+{
+  "Site": {
+    "title": "Meet Puerto — Onboarding",
+    "description": "Everything you need to use Meet Puerto, our floating pontoon in the marina of Oostende, autonomously."
+  },
+  "Common": {
+    "backHome": "Back to overview",
+    "backTo": "Back to {target}"
+  },
+  "LocaleSwitch": {
+    "label": "Language"
+  },
+  "Home": {
+    "title": "Meet Puerto",
+    "subtitle": "Our floating event venue in the marina of Oostende. In this app you'll find everything you need to make your event a success and leave everything tidy."
+  },
+  "Info": {
+    "title": "General info",
+    "summary": "Location, parking, access, rules.",
+    "intro": "All the practical info you need before coming to Meet Puerto.",
+    "sections": {
+      "location": {
+        "title": "Getting there",
+        "body": "Meet Puerto is moored in the harbor of Oostende, next to the Mercator (the historic three-masted training ship) and directly opposite the city hall. GPS address: Jan Piersplein 2, 8400 Oostende. An 8-minute walk from Oostende station."
+      },
+      "parking": {
+        "title": "Parking options",
+        "body": "Several car parks in the area — see the [Oostende parking overview](https://www.visitoostende.be/nl/parkeren)."
+      },
+      "access": {
+        "title": "Coming aboard",
+        "body": "You enter the venue through a first gate on the quay using a fixed access code (sent with your booking confirmation). The gate leads to the gangway up to the deck. On the deck you'll find a digital igloohome key safe — its code is sent to you by SMS, 1 hour before the start of your rental."
+      }
+    }
+  },
+  "Onboarden": {
+    "title": "Onboarding",
+    "summary": "Checklist and signature beforehand.",
+    "intro": "Tick all items to confirm you understand the house rules, then sign digitally below.",
+    "Checklist": {
+      "title": "Pre-arrival checklist",
+      "intro": "Tick everything to confirm you've understood the info.",
+      "items": {
+        "read": "I have read all the info under 'General info'.",
+        "capacity": "I will respect the 40-person maximum on board.",
+        "noise": "I know that noise on the deck is allowed until 10 PM — after that, the party continues inside.",
+        "smoking": "I know that smoking is only allowed on the deck, at the designated smoking post.",
+        "pets": "I understand that pets are not permitted on board.",
+        "damage": "I understand that any damage on board will be charged to me.",
+        "contact": "I have noted the emergency number 0497 80 01 16 for problems on board."
+      },
+      "completedMessage": "All ticked — sign below."
+    },
+    "Handtekening": {
+      "title": "Signature beforehand",
+      "intro": "Confirm with your digital signature that you agree with the rental conditions and safety rules.",
+      "nameLabel": "First and last name",
+      "namePlaceholder": "e.g. Jan Janssens",
+      "agreeLabel": "I sign digitally and agree with the rental conditions and safety rules of Meet Puerto.",
+      "submitButton": "Confirm signature",
+      "successTitle": "Thank you!",
+      "successMessage": "Your signature has been recorded. Enjoy Meet Puerto.",
+      "signedOn": "Signed on {date}",
+      "next": "Continue to Use"
+    }
+  },
+  "Gebruik": {
+    "title": "Using the venue",
+    "summary": "Instructions per room aboard.",
+    "intro": "Each room on board has a QR code that takes you to the right instructions. Or click below.",
+    "roomsHeading": "Three rooms",
+    "Dek": {
+      "title": "Deck",
+      "summary": "Outdoor area on the pontoon.",
+      "intro": "The deck is the outdoor area around Meet Puerto. A great spot for drinks — please keep the following in mind.",
+      "items": {
+        "loungeChairs": "Lounge chairs: store the protective covers in the dedicated storage boxes on the deck while you're using the chairs. At the end of your rental or in bad weather, pull the covers back over the chairs, tie them with the provided cords, and tuck the bottom edge under the chair legs — this keeps them from blowing away in strong wind.",
+        "noise": "Noise on the deck is allowed until 10 PM — after that, the party continues inside.",
+        "smoking": "Smoking is only allowed at the designated smoking post on the deck. No cigarette butts in the water."
+      }
+    },
+    "Eventruimte": {
+      "title": "Event hall",
+      "summary": "Indoor space with bar and AV.",
+      "intro": "The main room with bar, seating and table layout. Here you'll find controls for lights, sound and climate.",
+      "items": {
+        "lights": "The light switches are on your left as you enter the kitchen.",
+        "climate": "The air-conditioning control panels are mounted in the same spot as the light switches (on your left as you enter the kitchen).",
+        "av": "To turn the projector on, press the power button on the remote twice — it sits next to the stereo on the bar. The screen drops down automatically via the small black control next to the sound system.",
+        "bar": "The bar has several compartments with soft drinks, water, wine, cava, beer, … You don't need to keep track of what's consumed — we count the empties during cleanup. Backup stock is in the fridges in the kitchen.",
+        "wifi": "Wi-Fi: network MeetPuerto, password MeetPuerto25!",
+        "windows": "Only two windows can be tilted open. The other windows are sealed shut for safety reasons and must not be opened."
+      }
+    },
+    "Keuken": {
+      "title": "Kitchen",
+      "summary": "Compact catering kitchen.",
+      "intro": "Fully equipped catering kitchen with induction, oven and dishwasher. Compact aboard, but efficiently organised.",
+      "items": {
+        "tableware": "Plates, cutlery and glassware are in the marked cupboards. Use freely — everything goes in the dishwasher after use.",
+        "cuttingBoards": "Cutting boards follow the HACCP colour code: red for raw meat, blue for raw fish, yellow for raw poultry, green for vegetables and fruit, white for dairy and bread. Always use the right colour to prevent cross-contamination.",
+        "fridge": "Separate fridge for your own ingredients — use freely during your rental.",
+        "drinksFridge": "Extra drinks fridge for the backup stock. This is where the resupply of soft drinks, water, wine, cava and beer is kept.",
+        "freezer": "Freezer free to use for your own meat, fish or prepared dishes.",
+        "microwave": "Microwave for reheating prepared dishes — detailed operating instructions to follow.",
+        "rationalOven": "Rational combi oven for professional cooking (convection, steam, combi). The oven guides you through the steps on the touchscreen.",
+        "plateWarmer": "Plate warmer: built-in drawers in the kitchen. A single button controls all drawers together — use to keep plates hot before serving.",
+        "griddle": "Griddle for grilling — turn on via the controls on the unit.",
+        "dishwasher": "Industrial dishwasher — only use the tablets provided. Start the programme via the front panel."
+      }
+    }
+  },
+  "Afsluiten": {
+    "title": "Closing up",
+    "summary": "Closing checklist and signature afterwards.",
+    "intro": "Run through the checklist, then sign — so everything stays in order for the next renter.",
+    "Checklist": {
+      "title": "Closing checklist",
+      "intro": "Tick everything before you leave.",
+      "items": {
+        "appliancesOff": "I turned off all kitchen appliances (oven, microwave, plate warmer, dishwasher, …).",
+        "trash": "Waste is sorted and placed in the designated bins.",
+        "empties": "Empty bottles are placed in the designated empties crates.",
+        "glass": "Glass is placed in the designated waste container at the back of the kitchen.",
+        "dishes": "Dishes are washed and returned to their designated place.",
+        "towels": "Dirty laundry and towels are placed in the designated laundry basket.",
+        "leftovers": "Any personal food leftovers have been removed from the fridge and freezer.",
+        "ac": "The air conditioning is off.",
+        "projector": "The projector is off.",
+        "sound": "The sound system is off.",
+        "lights": "All lights are off.",
+        "windows": "All windows are closed.",
+        "doors": "All doors are closed.",
+        "key": "The key has been returned to the igloohome digital key safe.",
+        "loungeCovers": "The lounge chairs are covered with their protective covers (tied with the cords, cover tucked under the legs)."
+      },
+      "completedMessage": "All ticked — sign below."
+    },
+    "Handtekening": {
+      "title": "Signature afterwards",
+      "intro": "Confirm with your digital signature that you've closed Meet Puerto correctly.",
+      "nameLabel": "First and last name",
+      "namePlaceholder": "e.g. Jan Janssens",
+      "agreeLabel": "I confirm that I closed Meet Puerto correctly following the checklist.",
+      "submitButton": "Confirm signature",
+      "successTitle": "Thank you!",
+      "successMessage": "Your closing has been confirmed. See you next time at Meet Puerto.",
+      "signedOn": "Signed on {date}"
+    }
+  },
+  "NotFound": {
+    "title": "Page not found",
+    "message": "This page doesn't exist.",
+    "home": "Back to overview"
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "Site": {
+    "title": "Meet Puerto — Onboarding",
+    "description": "Alles wat je nodig hebt om Meet Puerto, ons drijvend ponton in de jachthaven van Oostende, autonoom te gebruiken."
+  },
+  "Common": {
+    "backHome": "Naar startpagina",
+    "backTo": "Terug naar {target}"
+  },
+  "LocaleSwitch": {
+    "label": "Taal"
+  },
+  "Home": {
+    "title": "Meet Puerto",
+    "subtitle": "Onze drijvende eventlocatie in de jachthaven van Oostende. In deze app kan je alles terugvinden om jouw event succesvol te maken en alles netjes achter te laten."
+  },
+  "Info": {
+    "title": "Algemene info",
+    "summary": "Locatie, parking, toegang, regels.",
+    "intro": "Hier vind je alle praktische info voor je naar Meet Puerto komt.",
+    "sections": {
+      "location": {
+        "title": "Bereikbaarheid",
+        "body": "Meet Puerto ligt aangemeerd in de haven van Oostende, naast de Mercator en recht tegenover het stadhuis. Adres voor je GPS: Jan Piersplein 2, 8400 Oostende. Te voet 8 minuten van het station Oostende."
+      },
+      "parking": {
+        "title": "Parkeermogelijkheden",
+        "body": "Verschillende parkings in de buurt — bekijk het [parkeer-overzicht van Oostende](https://www.visitoostende.be/nl/parkeren)."
+      },
+      "access": {
+        "title": "Aan boord komen",
+        "body": "Je betreedt het ponton via een eerste poort op de kade met een vaste toegangscode (die ontvang je bij je boekingsbevestiging). De poort geeft uit op de loopbrug naar het dek. Op het dek vind je een digitale igloohome sleutelkast — de code daarvoor krijg je via sms, 1 uur voor de start van je huur."
+      }
+    }
+  },
+  "Onboarden": {
+    "title": "Onboarden",
+    "summary": "Checklist en handtekening vooraf.",
+    "intro": "Vink alle punten aan om te bevestigen dat je de huisregels begrijpt, en zet daarna je digitale handtekening.",
+    "Checklist": {
+      "title": "Checklist vooraf",
+      "intro": "Vink alles aan om aan te tonen dat je de info begrepen hebt.",
+      "items": {
+        "read": "Ik heb alle info onder 'Algemene info' gelezen.",
+        "capacity": "Ik respecteer het maximum van 40 personen aan boord.",
+        "noise": "Ik weet dat geluid op het dek toegelaten is tot 22u — daarna feesten we verder binnen.",
+        "smoking": "Ik weet dat roken enkel mag op het dek, aan de voorziene rookpaal.",
+        "pets": "Ik begrijp dat huisdieren niet toegestaan zijn aan boord.",
+        "damage": "Ik begrijp dat eventuele schade aan boord aan mij wordt aangerekend.",
+        "contact": "Ik heb het noodnummer 0497 80 01 16 genoteerd voor problemen aan boord."
+      },
+      "completedMessage": "Alles aangevinkt — onderteken hieronder."
+    },
+    "Handtekening": {
+      "title": "Handtekening vooraf",
+      "intro": "Bevestig met je digitale handtekening dat je akkoord gaat met de huurvoorwaarden en veiligheidsregels.",
+      "nameLabel": "Voornaam + Familienaam",
+      "namePlaceholder": "bv. Jan Janssens",
+      "agreeLabel": "Ik teken digitaal en ga akkoord met de huurvoorwaarden en veiligheidsregels van Meet Puerto.",
+      "submitButton": "Bevestig handtekening",
+      "successTitle": "Bedankt!",
+      "successMessage": "Je handtekening is geregistreerd. Veel plezier op Meet Puerto.",
+      "signedOn": "Ondertekend op {date}",
+      "next": "Door naar Gebruik"
+    }
+  },
+  "Gebruik": {
+    "title": "Gebruik van de locatie",
+    "summary": "Instructies per ruimte aan boord.",
+    "intro": "In elke ruimte aan boord vind je een QR-code die je naar de juiste instructies brengt. Of klik hieronder.",
+    "roomsHeading": "Drie ruimtes",
+    "Dek": {
+      "title": "Dek",
+      "summary": "Buitenruimte op het ponton.",
+      "intro": "Het dek is de buitenruimte rond Meet Puerto. Een mooie plek voor een aperitief, maar hou rekening met onderstaande.",
+      "items": {
+        "loungeChairs": "Loungezetels: leg de beschermhoezen in de voorziene opbergboxen op het dek wanneer je de zetels gebruikt. Bij slecht weer of bij vertrek schuif je de hoezen terug over de zetels, sluit ze met de koorden en trek het onderste van de hoes onder de pootjes — zo waaien ze niet weg bij stevige wind.",
+        "noise": "Geluid op het dek is toegelaten tot 22u — daarna feest je verder binnen.",
+        "smoking": "Roken mag enkel aan de voorziene rookpaal op het dek. Geen peuken in het water."
+      }
+    },
+    "Eventruimte": {
+      "title": "Eventruimte",
+      "summary": "Binnenruimte met bar en AV.",
+      "intro": "De hoofdruimte met bar, zit- en tafelopstelling. Hier vind je de bediening voor licht, geluid en klimaat.",
+      "items": {
+        "lights": "De lichtschakelaars vind je links na het binnenkomen in de keuken.",
+        "climate": "De bedieningspanelen voor de airco's hangen op dezelfde plek als de lichtschakelaars (links na het binnenkomen in de keuken).",
+        "av": "Beamer aan: druk twee keer op de aan-knop van de afstandsbediening (ligt naast de stereoinstallatie op de bar). Het scherm zakt automatisch naar beneden via het zwarte bakje naast de geluidsinstallatie.",
+        "bar": "In de bar vind je verschillende compartimenten met frisdrank, water, wijn, cava, bier, … Je hoeft niets te noteren — wij tellen het leeggoed bij de opkuis. Reservestock zit in de koelkasten in de keuken.",
+        "wifi": "Wifi: netwerk MeetPuerto, wachtwoord MeetPuerto25!",
+        "windows": "Slechts twee ramen kunnen gekanteld worden. De andere ramen zijn omwille van veiligheid afgesloten en mogen niet geopend worden."
+      }
+    },
+    "Keuken": {
+      "title": "Keuken",
+      "summary": "Compacte cateringkeuken.",
+      "intro": "Volledig uitgeruste cateringkeuken met inductie, oven en vaatwasser. Compact aan boord, dus efficiënt georganiseerd.",
+      "items": {
+        "tableware": "Borden, bestek en glazen vind je in de aangeduide kasten. Vrij te gebruiken — alles in de vaatwasser na gebruik.",
+        "cuttingBoards": "Snijplanken zijn gekleurd volgens HACCP: rood voor rauw vlees, blauw voor rauwe vis, geel voor rauw gevogelte, groen voor groenten en fruit, wit voor zuivel en brood. Gebruik altijd de juiste kleur om kruisbesmetting te vermijden.",
+        "fridge": "Aparte koelkast voor je eigen ingrediënten — vrij te gebruiken tijdens je verblijf.",
+        "drinksFridge": "Extra drankenkoelkast voor de reservestock. Hier vind je het bijgevulde aanbod aan frisdrank, water, wijn, cava en bier.",
+        "freezer": "Diepvries vrij te gebruiken voor eigen vlees, vis of bereidingen.",
+        "microwave": "Microgolf voor het opwarmen van bereidingen — gedetailleerde bediening volgt.",
+        "rationalOven": "Rational combi-oven voor professionele bereiding (hetelucht, stoom, combi). De oven leidt je via het touchscreen door de stappen.",
+        "plateWarmer": "Bordenverwarmer: dat zijn speciale laden in de keuken. Eén knop bedient alle laden samen — gebruik om borden warm te houden vóór het serveren.",
+        "griddle": "Bakplaat voor grillen — aanzetten via de bediening op het toestel.",
+        "dishwasher": "Industriële vaatwasser — enkel de aanwezige tabletten gebruiken. Programma starten via het frontpaneel."
+      }
+    }
+  },
+  "Afsluiten": {
+    "title": "Afsluiten",
+    "summary": "Checklist en handtekening achteraf.",
+    "intro": "Loop de checklist af en zet daarna je handtekening — zo blijft alles in orde voor de volgende huurder.",
+    "Checklist": {
+      "title": "Afsluitchecklist",
+      "intro": "Vink af voor je vertrekt.",
+      "items": {
+        "appliancesOff": "Ik heb alle keukentoestellen (oven, microgolf, bordenverwarmer, vaatwasser, …) uitgezet.",
+        "trash": "Het afval is gesorteerd en in de voorziene vuilbakken gedeponeerd.",
+        "empties": "Het leeggoed is in de voorziene bakken gezet.",
+        "glass": "Glas is in de voorziene afvalcontainer achteraan in de keuken gezet.",
+        "dishes": "De vaat is afgewassen en terug op de voorziene plaats gezet.",
+        "towels": "De vuile was en handdoeken zijn in de voorziene wasmand gedeponeerd.",
+        "leftovers": "Eventuele eigen etensresten zijn meegenomen uit de frigo en diepvries.",
+        "ac": "De airco staat uit.",
+        "projector": "De beamer staat uit.",
+        "sound": "De geluidsinstallatie staat uit.",
+        "lights": "Alle lichten zijn uit.",
+        "windows": "Alle ramen zijn gesloten.",
+        "doors": "Alle deuren zijn gesloten.",
+        "key": "De sleutel is teruggelegd in de digitale igloohome sleutelbox.",
+        "loungeCovers": "De loungezetels zijn afgedekt met de beschermhoezen (vastgemaakt met de koorden, hoes onder de pootjes)."
+      },
+      "completedMessage": "Alles aangevinkt — onderteken hieronder."
+    },
+    "Handtekening": {
+      "title": "Handtekening achteraf",
+      "intro": "Bevestig met je digitale handtekening dat je Meet Puerto correct hebt afgesloten.",
+      "nameLabel": "Voornaam + Familienaam",
+      "namePlaceholder": "bv. Jan Janssens",
+      "agreeLabel": "Ik bevestig dat ik Meet Puerto correct heb afgesloten volgens de checklist.",
+      "submitButton": "Bevestig handtekening",
+      "successTitle": "Bedankt!",
+      "successMessage": "Je afsluiting is bevestigd. Tot een volgende keer op Meet Puerto.",
+      "signedOn": "Ondertekend op {date}"
+    }
+  },
+  "NotFound": {
+    "title": "Pagina niet gevonden",
+    "message": "Deze pagina bestaat niet.",
+    "home": "Terug naar overzicht"
+  }
+}
